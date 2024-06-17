@@ -1,0 +1,1164 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"/>
+        <meta name="format-detection" content="telephone=no"/>
+        <title>Digital Marketing Agency in Delhi | Social Media | Content</title>
+        <meta name="description" content="Digital Marketing Agency in Delhi that’s as creative & skill-driven as a circus. Our special acts include Social Media, Design, Content & that ‘Quirky’ thing!"/>
+        <link rel="icon" href="https://fullcircus.s3.ap-south-1.amazonaws.com/img/favicon.gif" type="image/gif">
+        <meta property="og:title" content="Full Circus | Digital Branding Agency"/>
+        <meta property="og:description" content="Welcome to the Circus"/>
+        <meta property="og:image" content="https://fullcircus.s3.ap-south-1.amazonaws.com/img/logo.png"/>
+        <meta property="og:image:width" content="126"/>
+        <meta property="og:image:height" content="111"/>
+        <link rel="stylesheet" href="css/style.css">
+        <script>
+            window.addEventListener('load', ()=>{
+                document.querySelector('.loader').style.display = 'none';
+                document.querySelector('body').classList.remove('loading');
+
+                setTimeout(()=>{
+                    document.querySelector('.banner-girl').classList.add('active');
+                }
+                , 1000);
+            }
+            );
+        </script>
+        <style>
+            @font-face {
+                font-family: Montserrat;
+                src: url(fonts/montserrat-regular.eot);
+                src: url(fonts/montserrat-regular.eot?#iefix) format('embedded-opentype'),url(fonts/montserrat-regular.woff2) format('woff2'),url(fonts/montserrat-regular.woff) format('woff'),url(fonts/montserrat-regular.ttf) format('truetype'),url(fonts/montserrat-regular.svg#Montserrat-Regular) format('svg');
+                font-weight: normal;
+                font-style: normal;
+                font-display: swap;
+            }
+
+            @font-face {
+                font-family: Montserrat;
+                font-style: normal;
+                font-weight: 500;
+                font-display: swap;
+                src: local('Montserrat Medium'),local('Montserrat-Medium'),url(fonts/montserrat-medium.woff2) format('woff2');
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+
+            @font-face {
+                font-family: Montserrat;
+                font-style: normal;
+                font-weight: 800;
+                font-display: swap;
+                src: local('Montserrat ExtraBold'),local('Montserrat-ExtraBold'),url(fonts/montserrat-extrabold.woff2) format('woff2');
+                unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD
+            }
+
+            @font-face {
+                font-family: 'Life Savers';
+                font-style: normal;
+                font-weight: 800;
+                font-display: swap;
+                src: local('Life Savers ExtraBold'), local('LifeSavers-ExtraBold'), url(fonts/life-savers.woff2) format('woff2');
+                unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+
+            .loading {
+                overflow: hidden;
+                position: relative
+            }
+
+            .loader {
+                position: fixed;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                left: 0;
+                background-color: #fff;
+                z-index: 10
+            }
+
+            .loader .video {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%,-50%);
+            }
+
+            .grecaptcha-badge {
+                visibility: hidden;
+            }
+        </style>
+        <!-- Global site tag (gtag.js) - Google Ads: 674292825 -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-674292825"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'AW-674292825');
+        </script>
+        <script>
+            gtag('config', 'AW-674292825/nOAQCNir9YEDENnIw8EC', {
+                'phone_conversion_number': '8800900445'
+            });
+        </script>
+        <script>
+            window.addEventListener('load', function() {
+                if (window.location.pathname == "/thank-you.php") {
+                    gtag('event', 'conversion', {
+                        'send_to': 'AW-674292825/dfS_CIea1YEDENnIw8EC'
+                    });
+                }
+            });
+        </script>
+        <script type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "LocalBusiness",
+                "name": "Full Circus",
+                "image": "https://fullcircus.s3.ap-south-1.amazonaws.com/img/logo.svg",
+                "@id": "",
+                "url": "https://www.thefullcircus.com/",
+                "telephone": "08800900445",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "Building. No 22, Hauz Khas Village",
+                    "addressLocality": "New Delhi",
+                    "postalCode": "110016",
+                    "addressCountry": "IN"
+                }
+            }</script>
+    </head>
+    <body class="loading">
+        <div class="loader">
+            <div class="video">
+                <video width="200" height="288" muted autoplay loop playsinline>
+                    <source src="https://fullcircus.s3.ap-south-1.amazonaws.com/video/loading-dog.mp4" type="video/mp4">
+                </video>
+            </div>
+        </div>
+        <div id="wrap">
+            <svg id="path" viewBox="0 0 1061.2 6664.7">
+                <path class="pathLine" d="M902.8,15.7c0.3-2.3,39.9,251.2-234.5,232c0,0-197.1-40.2-276.2,46.6c-78.4,86.1-59,261.6,39,273.5 c2.1,0.3,4.2,0.7,6.3,1.1l8.6,1.8c106.5,18.1,177.8,155.6,83.8,280.8c0,0-1.4,49.8-28.2,42.7c-23.8-6.3-23.9-24.8-21.6-31.1 c4.5-12.5-0.7-24.1-7.3-7c-3.3,8.6-3.3,13.2-11,16.4c-8,3.3-14.8-0.2-19.4-2c-7.3-2.6-20.6-8.3-13.3-33.7c1.4-4.6,10.5-19.2,1.6-18 c-1.6,0.4-3.3,2.8-4.4,5.8c-1.9,5.1-2.2,11.4,1.9,9.6c3.7-1.6,3.7-18,12.9-18.9c17.3-1.6,24.6,5.7,31.9,11.1 c6.3,4.8,9.6,5.7,18.4,6.8c19.9,3.2,22.7,5.4,35.9,16.9c0,0,1.9,6.2,6.1,8.3c4.4,2.1-0.9,14.1-6,15.7c-3.7,1.2-3.7,4.4-5.7,13.6 c-3.3,15.1,89.6-46,246.4,22.8c18.4,8.1,70.2,30.7,87.1,41.5c63.9,41,177.1,126.4,144.2,287.6c-36.6,179.4-342.8,191-438.3,399.1 c0,0-100.2,181.6-108,494.6c0,0-7.8,290.3,30.5,402.3c38.3,111.9-35.2,289.6-48.5,381.1c-13.3,91.6,46.1,123.1,62.2,279.1 c5.6,70.6,2.9,205.3,2.9,205.3s6-8.5,1.4-16.7c-1.9-3.1-9.8-7.4-11.8,5.7c-1.4,8.8,4.7,5.4,4.7,13.9c0,11.6-0.2,24.8-4.7,28.5 s-16.5-18.6-17.3-27.4c-0.5-4.6,2.2-12.1-1.7-15.2c-4-3.3-13,1.1-11.8,7.7c0.5,3.3,5.2,4.2,6,7.9c2.3,9.5,3.2,19.7,1.4,28.9 c-2.5,12.7-11.1,4.9-12.4,3.1c-1.4-2-12-20.2-12-20.2s8-13.3-4-15.5c-7.6-1.2-9.4,6.8-6.8,12.5c1.4,3.1,3.7,2.1,5.1,5.9 c1.4,3.7,1.7,7.4,2.6,11.3c3.8,15.3,11.2,31.6,11.2,31.6s1.9,13.1,23.2,7.4c21.5-5.9,21.6-7,27.7-13.1c6.6-6.3-0.5-55.8-0.5-55.8 c-1.5-10.7,86.8-4.7,91.8-4.4c45.6,3.1,91,9.5,135.7,19.2c46.2,10,88.7,31.4,129.9,57.2c23,14.4,45.5,30.2,63.4,50.8 c17.2,19.9,33.3,42.4,41.8,67.2c8.9,25.9,14.9,54.6,16.1,82.1c0.9,20.6,1.1,37.7-3.6,57.7c-2.6,10.9-8.1,25.9-13.7,35.8 c-8.5,15.1-24.3,31.6-37.2,42.5c-31.7,27-51.8,38-102.1,62.2c-70.5,33.9-121,48.1-197.7,52.3c-19.8,1.1-39.7,1.5-59.6,1.3 c0,0-166.7-14.1-122.1,144c44.6,158.1,143.5,122.9,170.1,398.3c26.6,275.5-336.5,363.1-463.3,724.7 c-126.8,361.6,16.4,608.1,23.5,687.9c7,79.8,86.9,300.5-44.6,481.3s25.8,239.5,25.8,239.5" fill="none" stroke="#aaa" stroke-width="1px"/>
+                <g class="pathBall">
+                    <path fill="#FF493D" d="M0.3,28.2c0,15.4,12.5,27.9,28,27.9s27.9-12.5,27.9-27.9c0-15.4-12.5-28-27.9-28S0.3,12.8,0.3,28.2"/>
+                    <path fill="#3D4252" d="M0,28.2C0,12.7,12.7,0,28.2,0c15.6,0,28.2,12.7,28.2,28.2S43.8,56.4,28.2,56.4C12.7,56.4,0,43.8,0,28.2 M0.5,28.2c0,15.3,12.4,27.7,27.7,27.7s27.7-12.4,27.7-27.7S43.5,0.5,28.2,0.5S0.5,12.9,0.5,28.2"/>
+                    <path fill="#008CB8" d="M27.5,12.4c0,0,20.6-2.1,28.7,16.4c0,0,0.3,21.6-21.7,26.7c-0.9,0.2-1.9,0.3-2.8,0.5c0,0,9.7-20.3-6.1-40.3 L27.5,12.4z"/>
+                    <path fill="#3D4252" d="M31.4,55.8c0-0.1,2.4-5.1,2.8-12.6c0.3-4.4-0.2-8.7-1.4-12.8c-1.4-5.2-4-10.1-7.6-14.6l-0.1-0.1l2.1-3.5l0.1,0 c0.1,0,5.3-0.5,11.4,1.3c5.7,1.6,13.3,5.6,17.5,15.3l0,0l0,0.1c0,0.1,0,5.5-2.6,11.5c-1.6,3.5-3.8,6.6-6.5,9 c-3.4,3.1-7.7,5.2-12.8,6.4c-0.7,0.2-1.5,0.3-2.3,0.4c-0.2,0-0.3,0.1-0.5,0.1l-0.5,0.1L31.4,55.8z M48.1,18.6 c-2.7-2.1-5.8-3.7-9.4-4.7c-5.5-1.6-10.3-1.3-11.1-1.2l-1.8,2.9c3.6,4.6,6.1,9.5,7.5,14.7c1.2,4.2,1.6,8.6,1.4,13 c-0.4,6.3-2.1,10.9-2.7,12.3l0.1,0c0.8-0.1,1.6-0.2,2.3-0.4c5-1.2,9.2-3.3,12.6-6.3c2.7-2.4,4.8-5.4,6.4-8.8 c2.5-5.6,2.6-10.7,2.6-11.3C54.1,24.7,51.5,21.3,48.1,18.6"/>
+                    <path fill="#C60D44" d="M25.2,8.7c0,0,4.9-6.1,14.7-5.9c0,0-12.1-6.3-25.4,1.1c0,0,4.7,4,4.9,4.8H25.2z"/>
+                    <path fill="#3D4252" d="M19.1,8.8c-0.2-0.6-3-3.2-4.8-4.7L14,3.8l0.3-0.2c6.9-3.9,13.5-4,17.9-3.4C36.8,1,39.9,2.6,40,2.6l1,0.5 l-1.1,0c-0.2,0-0.4,0-0.5,0c-9.2,0-13.9,5.8-13.9,5.8L25.3,9h-6.2L19.1,8.8z M38.7,2.5c-1.3-0.5-3.6-1.3-6.6-1.7 c-4.2-0.6-10.5-0.5-17.2,3.1c1.1,0.9,4.1,3.5,4.6,4.5h5.6C25.7,7.7,30.3,2.8,38.7,2.5"/>
+                    <path class="layerOpacity" d="M28.2,13.2c0,0,0.1,1.4-1,2.6c0,0,18.4,13.1,18.2,31.6c0,0,5.6-4.8,7.6-11c2-6.2,1.2-8.4-2.6-13.4 C46.8,18,37.3,13,28.2,13.2"/>
+                    <path class="layerOpacity" d="M28.4,8.7c0,0,0.9,0.6,1.2,1.6c0,0,6.7-1.6,20.6,4.5c0,0-1.8-5.2-6.1-8.2c-4.4-3-5.6-2.4-9.8-0.8 C30.1,7.5,28.4,8.7,28.4,8.7"/>
+                    <path fill="#FF8900" d="M17.2,14.8c0,0-16.4,6.4-6.6,35.1c0,0-8.5-6.1-10.1-17.6C-1,20.9,4.8,12.9,4.8,12.9s3.8-1.5,11.6-0.7 L17.2,14.8z"/>
+                    <path fill="#3D4252" d="M10.4,50.1C10.3,50,1.8,43.8,0.3,32.4c-1.6-11.4,4.3-19.5,4.4-19.6l0-0.1l0.1,0c0.2-0.1,4-1.5,11.7-0.7l0.2,0 l0.9,3L17.3,15c0,0-4.1,1.6-6.9,6.7c-1.6,3-2.5,6.5-2.7,10.6c-0.2,5.1,0.9,11,3.1,17.5l0.3,0.8L10.4,50.1z M16.2,12.4	c-3.9-0.4-6.8-0.2-8.5,0C6.2,12.7,5.2,13,5,13.1c-0.5,0.8-5.7,8.5-4.2,19.2C2,41.6,8,47.4,10.1,49.1c-2-6.3-3-11.9-2.8-16.9	c0.1-4.1,1.1-7.8,2.8-10.8c2.5-4.6,6-6.4,6.9-6.8L16.2,12.4z"/>
+                    <path fill="#C60D44" d="M15.7,12.5c0,2.9,2.7,5.2,6.1,5.2s6.1-2.3,6.1-5.2s-2.7-5.2-6.1-5.2S15.7,9.6,15.7,12.5"/>
+                    <path fill="#3D4252" d="M15.4,12.5c0-3,2.9-5.4,6.4-5.4s6.4,2.4,6.4,5.4s-2.8,5.4-6.4,5.4S15.4,15.5,15.4,12.5 M15.9,12.5 c0,2.7,2.6,4.9,5.8,4.9c3.2,0,5.8-2.2,5.8-4.9S25,7.6,21.8,7.6C18.5,7.6,15.9,9.8,15.9,12.5"/>
+                    <path fill="#FF8900" d="M18.4,12.4c0,1.6,1.5,2.8,3.3,2.8c1.8,0,3.3-1.3,3.3-2.8c0-1.6-1.5-2.8-3.3-2.8C19.9,9.6,18.4,10.9,18.4,12.4"/>
+                    <path class="layerOpacity" d="M13,4.7c0,0-8.1,12.3,0,29.4C21.1,51.3,40.7,51,46.3,49.9c0,0-1.7,1.3-3.7,2.5c-1.7,1-3.7,1.8-5,2.2 c0,0-2.2-0.1-3.9-0.4c-1.7-0.3-11.2-1.8-19.6-10.6c0,0-6.8-6.2-7.7-15.7c-0.9-9.5,1.4-16.2,2.8-20C9.2,7.7,11.4,5.8,13,4.7"/>
+                    <path class="layerOpacity" d="M9.2,7.7c-5.5,5.1-8.9,12.4-8.9,20.5c0,15.4,12.5,27.9,28,27.9c3.3,0,6.4-0.6,9.4-1.6c0,0-13.4-0.5-24.1-11.7	l-0.6-0.6c-6.5-6.9-6.7-16.7-6.7-16.7C5.6,16.9,9.2,7.7,9.2,7.7"/>
+                </g>
+                <g id="goggles">
+                    <path d="M445.6,823.6c-6-1.2-8.4,0.2-10.3,5.3c-0.7,1.7-4.4,15.3-4,19.5c0.7,7.3,4.9,10.5,9.6,13.2c5,2.5,11.8,4.2,17.1,2.1 c5-2,7.9-9.1,9.5-14.8c1.3-4.4,2.9-11.1,0.5-14.8C464.9,828.9,448.1,824,445.6,823.6z M444.6,858.4c-3.5-0.2-7.7-2.3-8.7-6.8 c-1.7-6.3,1.4-14.7,3.5-20.4c0.2-0.4,0.5-0.4,0.5,0.2c-1,5.7-4.2,13-2.6,18.6c1.2,4.2,4.9,5.3,7.5,7.6 C444.7,858.2,444.7,858.4,444.6,858.4z M450,860.3c-0.5,0.5-1.6,0.4-2.2,0c-0.5-0.4-1.4-0.5-1.6-1.2c0-0.2,0-0.2,0.2-0.2 c0.5-0.4,1.3,0.4,1.7,0.5c0.5,0.2,1.4,0.2,1.9,0.6C450.1,859.9,450.1,860.1,450,860.3z M465.1,844.5c-0.2,0.2-0.5,0.2-0.5-0.2 c-0.2-1.7,0.5-3.9,0.2-5.7c-0.5-2.1-2.1-2.6-2.9-4.2c-0.2-0.2,0-0.4,0.2-0.4c1.7-0.4,3.7,1.7,4.2,3.5 C466.6,840,466.2,842.6,465.1,844.5z"/>
+                    <path d="M516.2,851c-2.2-1.4-18.3-9.1-23.4-7.4c-4,1.4-5.8,8.1-6.8,12.5c-1.3,5.8-2.6,13.8,0.5,18.9c3.3,5.4,9.6,9,14.9,10.4 c5.1,1.4,10.3,1.4,14.3-3.9c2.3-3.1,5.8-16.7,6.1-18.6C522.8,856.9,521.6,854.2,516.2,851z M499.4,880.4 c-7.2-0.6-14.8-9.5-12.4-18.9c0.2-0.2,0.3-0.2,0.3,0c0.7,4.2,1.2,8.3,3.8,11.4c2.3,3.1,5.4,4.8,8.5,6.8 C499.8,880,499.6,880.4,499.4,880.4z M504.9,882c-1.3,0.6-2.6-0.4-3.8-0.9c-0.2-0.2-0.2-0.5,0.2-0.4c1.2,0.4,2.5,0.4,3.7,0.9 C505,881.7,505,882,504.9,882z M517.4,865.4c-0.2,0.2-0.5,0.2-0.5-0.2c-0.2-4.8-0.5-7.6-4-10.2c-2.3-1.7-5.1-2.5-7.3-4.4 c-0.2,0,0-0.2,0-0.2C511.1,850.4,522.1,857.4,517.4,865.4z"/>
+                    <path d="M529.4,855.2c-0.3-1.2-0.5-2.5-0.9-3.7c-3.3-10.5-17.1-14.2-25.1-16.9c-6.4-2-13-2-19.4-4c-6.8-2.3-12.4-7.3-19-10.7 c-7.9-4.2-22.8-11.4-30.5-3.7c-0.5,0.4-0.7,0.9-1,1.2c-4.7-1.2-7.7,0.9-9.5,6.2c-1.4,4-2.3,11.3,1.9,13c-1,4.4-1.7,9.4-1.7,13.9 c-0.2,0-0.5-0.2-0.5,0c-5.6,1.4-9.1,9.5-5.9,15.5c1.2,2.1,3.3,2.3,5.2,1.7c2.3-0.5,4.4-1.7,6.8-2.1h0.2c0.9,0.9,1.7,1.6,2.5,2.1 c5.2,4,13.3,7.4,19.3,8.1c6.8,0.6,12.6-2.1,17.3-8.3c0.2-0.2,0.2-0.2,0.3-0.4c1.2,1.1,2.3,1.7,3.7,2.6c1.3,0.9,2.6,2,4,2.6 c0,0.4,0.2,0.6,0.2,1.1c1,7.6,5.6,13.2,11,16.6c4.5,2.8,11.4,5.9,18,6.5c3.1,3.9,4.7,10.2,9.8,9.9c2.5-0.2,4.5-2.6,5.2-5.4 c1-3.7-0.2-6.8-0.5-10.2c0-0.4-0.2-0.4-0.3-0.5c2.6-3.9,4.5-9,6-13.6c4.9,1.6,7.5-3.7,8.9-8.8 C536.3,861.7,534.3,856.4,529.4,855.2z M426.7,824.4c0.5-1.6,1.2-3.3,2.6-3.9c0.5-0.2,1.2-0.4,1.7-0.2c-2.2,3.5-3.7,7.7-4.7,12.3 C424.9,830.5,425.8,827.1,426.7,824.4z M420.5,864.1c-2.1-0.5-1.4-5.7-0.7-7c0.9-2,2.6-2.8,4-4c0.2,0.9,0.2,1.6,0.3,2.3 c0.5,2.6,1.4,4.9,2.8,6.8C424.8,863.1,422.7,864.6,420.5,864.1z M478.8,849.9c0.3,0.6,0.5,1.6,0.5,2.3c-1-0.2-1.9,0-2.9,0 c-0.5,0-1.2,0-1.7,0C475.7,850.2,477,849,478.8,849.9z M473.3,855.3c0.9,0.2,1.7,0.2,2.6,0.2c1,0,2.1,0.2,3.1,0 c-0.5,2.1-1,4.2-1.6,6.2c-1.3-0.2-2.6-0.2-4-0.2c-0.7,0-1.4-0.2-2.2-0.2C471.7,859.2,472.5,857.3,473.3,855.3z M470.5,864.6 c1,0.2,1.9,0.2,2.9,0.2c1,0.2,2.1,0.2,3.1,0.2c-0.3,1.2-0.3,2.5-0.3,3.5c-0.9-0.5-1.6-1.1-2.5-1.6 C472.8,865.9,471.6,865.2,470.5,864.6z M513.2,902.2c-1.9-1.2-3.1-3.7-4.4-5.9c3.1-0.4,6-1.2,8.4-3.3c0,0,0,0,0.2-0.2 c0.3,1.4,0.7,2.6,0.9,4C518.3,899.9,516.2,904.1,513.2,902.2z M508.9,892.5c-5.6,0.5-11.8-2.5-17.1-4.6 c-8.9-3.7-14.3-13.6-11.8-24.9c1-4.9,3.1-9.9,1.3-14.7c0-0.5-0.3-1.1-0.7-1.2c-8.5-5.1-9.6,7.9-12.2,14.8 c-0.2,0.2-0.3,0.5-0.3,0.6c-4.9,11.1-15.8,10.4-24.2,6.8c-6.1-2.5-13.8-5.3-16.4-13.2c-2.1-5.9,0.5-15.7,1.7-21.8 c1.9-9.5,6-18,15-18c5.7,0.2,11.7,3.1,17.1,5.3c5.7,2.3,10.3,7,15.8,9.6c10.1,4.8,20.9,4.4,31.1,8.6c5.2,2.1,10.6,3.9,15,8.3 c6.8,6.8,2.8,19.4-0.2,27.3C520,883.5,517.2,891.9,508.9,892.5z M532.2,865.5c-0.5,2-1,3.7-1.9,5.4c-0.9,1.6-2.1,2-3.2,2 c1.4-4.6,2.6-9.4,2.6-14.1C531.7,860.3,532.9,861.9,532.2,865.5z"/>
+                </g>
+                <g id="crown">
+                    <path class="st1" d="M501.5,3398.5c6.3-5.9,1.6-21.1-7.2-17.6c-7.6,3.1-6.1,14.7-0.7,18.4c-1,10.1,0.5,22.3-3.3,31.3 c-2.3,5.7-11.5-11.6-12.2-13.3c-2.2-4.6-4.2-9.5-6.3-14.1c4.5-6.5-0.2-19.5-8.4-16.4s-5.8,16.6,0.7,19c0,0.2,0,0.2,0,0.4 c0.5,10.1,2.1,20.8-0.2,30.6c-3.3,15.7-18.5-12.7-22-18.6c5.1-6.3,0.5-20.1-7.9-16.9c-7.7,3.1-6,15.2-0.3,18.4v0.2 c1.2,9.6,4.2,19.2,7.3,28.3c2.5,7.4,5.4,17.5,10.3,23.1c2.3,2.8,6.8,2.6,9.8,2.6c5.6-0.2,11.3-1.4,16.7-3.1 c8.6-2.5,21.1-6.3,26.7-15.7c1.2-2,1.2-4.6,1.2-6.8c0.3-5.7,0.2-11.3-0.3-16.9C504.8,3419.9,503.6,3409.1,501.5,3398.5z M494.1,3384.5c6-5.1,11.3,9,4.7,12.3c-2.3,0.9-4.4-0.2-6-2.3C490.2,3390.9,491.2,3386.9,494.1,3384.5z M463.1,3390.2 c6-5.1,11.3,9,4.7,12.3c-2.3,0.9-4.4-0.2-6-2.3C459.3,3396.7,460.3,3392.7,463.1,3390.2z M433.8,3404.5c6-5.1,11.3,9,4.7,12.3 c-2.3,0.9-4.4-0.2-6-2.3C429.8,3411.2,430.9,3407.1,433.8,3404.5z M502,3453c-1.9,3.9-6.4,6.2-9.8,8.1c-4.9,2.6-10.1,4.6-15.2,6.2 c-5,1.6-10.1,2.5-15.2,2.8c-3.3,0.4-7.7,0.5-9.8-3.1c-7.9-13.9-12.4-30.6-16.1-46.9c0.9,0.2,1.7,0.2,2.8-0.4c0.2,0,0.3,0,0.5-0.2 c0.2,0,0.3-0.2,0.3-0.2c0.3-0.2,0.5-0.4,0.7-0.4c3.5,7.9,15.7,32.2,23.9,22.9c3.3-3.7,3.2-11.6,3.3-16.7 c0.2-6.5-0.5-13.2-1.2-19.7c0.5,0,1.3-0.2,1.9-0.4c0.2,0,0.3,0,0.5-0.2c0.2,0,0.3-0.2,0.3-0.2c0.5-0.2,0.7-0.5,1-0.6 c2.9,7,5.8,14.2,9.6,20.8c1.9,3.1,5.7,10.1,9.6,9.4c3.8-0.9,4.5-6.2,5.1-10.1c1.3-8.1,1.2-16.6,1.4-24.8c1,0.4,2.1,0.2,3.2-0.2 c0.2,0,0.2,0,0.2,0c1.4,9.6,2.6,19.4,3.2,29.1c0.3,4.6,0.5,9.1,0.5,13.6C503,3445.7,503.4,3450.2,502,3453z"/>
+                    <path class="st1" d="M467.4,3399c-1.2-0.2-2.2,0.2-3.2-0.6c-0.9-0.5-1.3-2-2.2-2.3c-0.2,0-0.2,0-0.2,0.2c-0.5,1.4,1.3,3.1,2.1,3.5 c1.2,0.9,2.8,1.1,3.8-0.2C467.8,3399.6,467.7,3399,467.4,3399z"/>
+                    <path class="st1" d="M438.4,3414.9c0.2-0.2,0.2-0.4,0-0.4c-1-0.5-2.2-0.5-3.2-1.2c-0.9-0.5-1.4-1.7-2.3-2.1c-0.2,0-0.2,0-0.2,0.2 c-0.3,1.4,1,2.6,1.9,3.3C435.6,3415.4,437.3,3416,438.4,3414.9z"/>
+                    <path class="st1" d="M498.2,3393.9c-1-0.5-2.1-0.5-2.9-1.2c-1-0.9-1.3-2.1-2.1-3.1c-0.2-0.2-0.5-0.2-0.5,0.2 c-0.5,1.4,0.7,3.1,1.6,3.9c1,1.1,2.6,1.7,3.8,0.6C498.7,3394.3,498.5,3393.9,498.2,3393.9z"/>
+                    <path class="st1" d="M487.9,3458.3c-5.4,1.7-10.8,3.5-16.2,5.1c-6.1,1.7-13.1,4.2-18.8,0c-0.2-0.2-0.3,0.2-0.2,0.2 c3.8,5.4,9.4,3.9,14.5,2.8c7.2-1.4,14.5-3.5,20.9-7.6C488.3,3458.7,488.2,3458.3,487.9,3458.3z"/>
+                    <path class="st1" d="M490.9,3456.6c-0.5,0.4-1,0.5-1.3,1.1c0,0.2,0,0.2,0.2,0.2c0.5,0.2,1-0.4,1.4-0.5c0.5-0.4,1.2-0.5,1.4-1.1 c0.2-0.2,0-0.4-0.2-0.4C491.9,3455.8,491.4,3456.3,490.9,3456.6z"/>
+                </g>
+            </svg>
+        </div>
+        <div class="header">
+            <div class="logo">
+                <img src="https://fullcircus.s3.ap-south-1.amazonaws.com/img/logo.svg" alt="Full Circus logo" width="100" height="88">
+            </div>
+            <div class="header-contact-info">
+                <div class="box box-ticket">
+                    <div class="box-inner">
+                        <a class="btn-ticket" href="javascript:void(0);">Book Us</a>
+                    </div>
+                </div>
+                <div class="box box-contact-info">
+                    <div class="box-inner">
+                        <a class="mobile" href="tel:+91-8800900445">+91 8800900445</a>
+                        <a class="mail" href="mailto:showtime@thefullcircus.com">showtime@thefullcircus.com</a>
+                    </div>
+                </div>
+                <div class="box box-menu">
+                    <div class="box-inner">
+                        <ul id="menu">
+                            <li>
+                                <a href="#portfolio">Portfolio</a>
+                            </li>
+                            <li>
+                                <a href="#services">Services</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <svg class="sparkles">
+            <path class="yellow-dot-3" fill="#FFC91D" d="M0,101.5c0,1.5,1.3,2.8,2.8,2.8s2.8-1.3,2.8-2.8c0-1.5-1.3-2.8-2.8-2.8S0,100,0,101.5"/>
+            <path class="red-element-2" fill="#FC0808" d="M14.7,86.1c0,0.6,0.4,1,1,1c0.6,0,1-0.4,1-1v-3.3c0-0.6-0.4-1-1-1c-0.6,0-1,0.4-1,1V86.1z M14.7,97c0,0.6,0.4,1,1,1c0.6,0,1-0.4,1-1v-3.3c0-0.6-0.4-1-1-1c-0.6,0-1,0.4-1,1V97z M19.5,89c-0.6,0-1,0.4-1,1s0.4,1,1,1h3.3 c0.6,0,1-0.4,1-1s-0.4-1-1-1H19.5z M8.6,89c-0.6,0-1,0.4-1,1s0.4,1,1,1h3.3c0.6,0,1-0.4,1-1s-0.4-1-1-1H8.6z"/>
+            <path class="yellow-dot-2" fill="#FFC91D" d="M40.6,32.5c0,1.5,1.3,2.8,2.8,2.8c1.5,0,2.8-1.3,2.8-2.8s-1.3-2.8-2.8-2.8 C41.8,29.7,40.6,31,40.6,32.5"/>
+            <path class="purple-circle" fill="#7C02AF" d="M41.2,18.2c0-3.6,2.8-6.5,6.5-6.5s6.5,2.8,6.5,6.5s-2.8,6.5-6.5,6.5 C44.1,24.8,41.2,21.9,41.2,18.2 M43.8,18.2c0,2.2,1.8,3.9,3.9,3.9c2.1,0,3.9-1.8,3.9-3.9s-1.8-3.9-3.9-3.9 C45.5,14.3,43.8,16.1,43.8,18.2"/>
+            <path class="red-dot-big" fill="#FC0808" d="M58.5,40c0,2.4,2,4.3,4.3,4.3c2.4,0,4.3-2,4.3-4.3c0-2.4-1.9-4.3-4.3-4.3 C60.4,35.7,58.5,37.6,58.5,40"/>
+            <path class="red-element" fill="#FC0808" d="M101.2,9.8c0.3,0.3,0.3,0.9,0,1.2l-2,2c-0.3,0.3-0.9,0.3-1.2,0s-0.3-0.9,0-1.2l2-2 C100.3,9.4,100.8,9.4,101.2,9.8z M99.1,2.3c-0.3-0.3-0.9-0.3-1.2,0c-0.3,0.3-0.3,0.9,0,1.2l2,2c0.3,0.3,0.9,0.3,1.2,0 c0.3-0.3,0.3-0.9,0-1.2L99.1,2.3z M109.9,6.7h-2.8c-0.5,0-0.9,0.4-0.9,0.9s0.4,0.9,0.9,0.9h2.8c0.5,0,0.9-0.4,0.9-0.9 C110.8,7.2,110.4,6.7,109.9,6.7z M103.3,10.7c-0.5,0-0.9,0.4-0.9,0.9v2.8c0,0.5,0.4,0.9,0.9,0.9c0.5,0,0.9-0.4,0.9-0.9v-2.8 C104.2,11.1,103.8,10.7,103.3,10.7z M100.1,7.6c0-0.5-0.4-0.9-0.9-0.9h-2.8c-0.5,0-0.9,0.4-0.9,0.9s0.4,0.9,0.9,0.9h2.8 C99.7,8.5,100.1,8.1,100.1,7.6z M106.7,9.8c-0.3-0.3-0.9-0.3-1.2,0s-0.3,0.9,0,1.2l2,2c0.3,0.3,0.9,0.3,1.2,0s0.3-0.9,0-1.2 L106.7,9.8z M103.3,0c-0.5,0-0.9,0.4-0.9,0.9v2.8c0,0.5,0.4,0.9,0.9,0.9c0.5,0,0.9-0.4,0.9-0.9V0.9C104.2,0.4,103.8,0,103.3,0z M106.6,5.4l2-2c0.3-0.3,0.3-0.9,0-1.2s-0.9-0.3-1.2,0l-2,2c-0.3,0.3-0.3,0.9,0,1.2C105.7,5.8,106.3,5.8,106.6,5.4z"/>
+            <path class="yellow-dot-big" fill="#FFC91D" d="M127.2,17.8c1.6,0,2.8,1.3,2.8,2.8c0,1.6-1.3,2.8-2.8,2.8c-1.6,0-2.8-1.3-2.8-2.8 C124.3,19.1,125.6,17.8,127.2,17.8z"/>
+            <path class="yellow-dot" fill="#FFC91D" d="M91.4,12.9c1.1,0,2,0.9,2,2s-0.9,2-2,2s-2-0.9-2-2S90.3,12.9,91.4,12.9z"/>
+            <path class="red-dot" fill="#FC0808" d="M70.3,1.2c0.9,0,1.6,0.7,1.6,1.6s-0.7,1.6-1.6,1.6s-1.6-0.7-1.6-1.6S69.4,1.2,70.3,1.2z"/>
+        </svg>
+        <span class="elem hula-hoop hula-hoop--small"></span>
+        <span class="elem pins"></span>
+        <span class="elem drum">
+            <video width="214" height="206" muted autoplay loop playsinline>
+                <source src="https://fullcircus.s3.ap-south-1.amazonaws.com/video/drums.mp4" type="video/mp4">Your browser does not support the video tag.
+            
+            </video>
+        </span>
+        <section class="scene screen-1" id="top">
+            <div class="video">
+                <video width="1304" height="696" muted autoplay loop playsinline>
+                    <source src="https://fullcircus.s3.ap-south-1.amazonaws.com/video/banner-dog.mp4" type="video/mp4">Your browser does not support the video tag.
+                
+                </video>
+            </div>
+            <span class="elem clouds-and-balloon"></span>
+            <span class="elem circus"></span>
+            <span class="scroll-down">
+                <svg class="scroll-down-elem">
+                    <path class="down-arrow" d="M23.2,40.4c0-0.5,0-0.9,0-1.3c-0.1-4.1-0.1-2.8-0.2-6.9c-0.1-2.9,0.1-1.1,0-4c0-1.3,0-1,0.1-2.3c0.1-1,1-1.7,2-1.3 c0.5,0.2,0.9,0.7,0.9,1.4c0,2.6,0,1.5,0,4.1c-0.1,2.9,0,1.1,0,4c-0.1,3-0.2,3-0.3,6.1c0,0.1,0,0.3,0,0.5c0.6-0.7,1-0.6,1.6-1.3 c0.9-1.1,1.9-2.2,2.8-3.3c0.7-0.8,1.4-1.7,2.3-2.3c0.1-0.1,0.4-0.1,0.6-0.1c0,0.2,0.1,0.4,0.1,0.6c-0.3,1-0.9,2-1.6,2.8 c-2.1,2.5-4.2,5.1-6.3,7.6c-0.5,0.6-1.1,0.6-1.7,0c-0.1-0.1-0.2-0.3-0.3-0.4c-2.1-3.1-4.2-6.3-6.3-9.5c-0.1-0.2-0.2-0.4-0.3-0.5 c-0.4-0.5-0.4-1,0.1-1.5c0.4-0.4,1.1-0.5,1.7-0.1c0.2,0.2,0.4,0.5,0.6,0.8c1.5,2.3,2.6,4.2,4.1,6.5C23,40.1,23.1,40.2,23.2,40.4z"/>
+                    <path class="black-outline" fill="#010101" d="M31.7,69.3c8.1-1.3,11.1-6.9,11.7-12.6c2-28.1,2-9.3,0.7-37.4c-0.2-6.1,0.2-4.4-3.9-9.8c-1.3-1.7-2.9-2.9-4.8-4 c-6-5.8-16.1-6.9-24.8-4c-6.7,2.2-8.8,7.7-9.4,13C-0.1,24.4,0.5,26.2,0.4,36c-0.1,13.9-0.1-6.9-0.2,7c0,4.8,0-3-0.1,1.8 c-0.1,5.1-0.5,10,2.3,14.8c1.1,2,3.1,3.6,5.4,4.8c1.6,1.8,3.8,3.2,6.9,4.3C19.7,70.3,26.3,70.1,31.7,69.3z M21.6,68.1 c-12.1-0.2-16-8.7-15.5-16.8c0.5-9.2,0.2,0.9,0.2-8.4c0-14,0.1-0.2,0.3-14.3c0.1-5.1,0.2-1.9,0.4-7c0.2-4.9,0.5-10.3,5.2-14 c6.1-4.7,18.3-3.8,24.1,0.5c5.4,4,5.1,10.3,5.4,15.7c0.6,10.4,0.6,4.2,0.6,14.6c0,19,0.1-0.8-1.3,18.2c-0.5,4.7-2.4,9.1-8.5,10.8 C29.3,68.3,25.3,68.1,21.6,68.1z"/>
+                </svg>
+                Let’s Get The Ball Rolling
+
+                <span class="mobile">Let's get the show started</span>
+            </span>
+            <div class="center-block">
+                <div class="banner-girl"></div>
+                <span class="circle"></span>
+                <span class="elem callout">
+                    <i id="welcomeText1" class="text1">
+                        Hey, we are<br>Full Circus
+                    </i>
+                    <i id="welcomeText2" class="text2">
+                        An <a href="#" class="awards-popup-link">award-winning</a>
+                        agency
+                    </i>
+                </span>
+            </div>
+        </section>
+        <div class="space"></div>
+        <section class="scene section-text section-text-1" id="section-text-1">
+            <span class="elem circus circus-left"></span>
+            <span class="elem circus circus-right"></span>
+            <span class="elem hot-air-balloon"></span>
+            <span class="elem clouds"></span>
+            <div class="center-block">
+                <svg viewBox="0 0 200 130.5">
+                    <path d="M49.4 15.4c-10.2-1.6-14.1.2-17.1 7.4-1.1 2.6-7.4 21.5-6.7 27.3 1.3 10 8.2 14.9 16.3 18.4 8.3 3.5 19.8 5.8 28.7 2.9 8.3-2.7 13.2-12.8 16-20.8 2.2-6 5-15.4.7-20.8-5.4-6.9-33.9-13.8-37.9-14.4zm-1.9 48.5c-5.8-.3-12.9-3.2-14.9-9.2-2.8-8.8 2.4-20.4 5.9-28.3.2-.5 1-.3.9.3-1.6 7.8-7 18.1-4.4 26.1 1.9 5.8 8 7.4 12.6 10.5.3.2.3.7-.1.6zm9.3 2.6c-1 .8-2.6.4-3.7 0-.9-.3-2.5-.7-2.7-1.7 0-.1 0-.2.1-.3.9-.5 2.1.4 3 .6 1 .3 2.4.2 3.2.9.2 0 .3.3.1.5zm25.1-22c-.2.3-.6.1-.6-.2-.1-2.6.8-5.4.1-7.9-.8-2.9-3.4-3.6-5-5.8-.1-.1 0-.4.1-.4 3.1-.5 6 2.3 7 5 1.1 3.1.4 6.8-1.6 9.3zM167.8 53.5c-3.6-1.8-30.7-12.8-39.3-10.4-6.6 1.8-9.8 11.1-11.6 17.3-2.3 8.1-4.4 19.2.9 26.2 5.6 7.5 16.3 12.4 25 14.4 8.7 1.9 17.1 2 24-5.4 4-4.3 9.9-23.3 10.4-26.1 1.9-7.6-.2-11.3-9.4-16zm-28.1 41.2c-12-1-24.7-13.3-20.9-26.2.1-.3.5-.2.5 0 1.3 5.9 2 11.5 6.4 16.1 4 4.2 9.1 6.7 14.1 9.4.5.2.3.7-.1.7zm9.3 2.2c-2.3.9-4.4-.4-6.4-1.3-.3-.1-.1-.6.2-.5 2 .4 4.2.5 6.2 1.2.2.1.3.5 0 .6zm21.2-23.3c-.2.3-.6.1-.6-.2-.1-6.5-1-10.5-6.9-14.2-3.8-2.4-8.5-3.5-12.1-6.2-.1 0 0-.2 0-.2 9-.1 27.4 9.8 19.6 20.8z"/>
+                    <path d="M190.1 59.3c-.3-1.8-.8-3.6-1.4-5.3-5.6-14.7-28.7-20-42.1-23.4-10.8-2.7-21.9-2.7-32.7-5.7-11.6-3.2-21-10.1-31.9-14.9C68.8 4.2 43.6-6.1 30.6 4.8c-.6.5-1.2 1.1-1.8 1.7-7.7-1.6-13.1 1.1-16.1 8.7-2.3 5.6-4 15.8 3.1 18-1.6 6.2-3 12.9-3.1 19.3-.3 0-.6-.1-.9 0-9.2 1.9-15.2 13.2-9.7 21.6 2 3.1 5.6 3.2 8.8 2.5 3.8-.8 7.4-2.3 11.3-3h.1c1.4 1.1 2.8 2.1 4.3 3 9 5.6 22.2 10.4 32.6 11.3 11.4.9 21.2-3 28.9-11.5.1-.1.2-.3.4-.5 1.9 1.4 4 2.5 6.1 3.6 2.2 1.3 4.5 2.8 6.8 3.7 0 .5.1 1 .2 1.5 1.6 10.5 9.2 18.4 18.3 23.1 7.5 3.8 19.1 8.2 30.1 9.1 5.1 5.5 7.8 14.3 16.6 13.7 4.1-.3 7.6-3.7 8.8-7.5 1.7-5.2-.2-9.2-1-14.4 0-.3-.1-.5-.3-.8 4.5-5.5 7.5-12.5 10.2-19 8 2.2 12.6-5.3 14.9-12.2 2.6-8.3-.7-15.5-9.1-17.4zM17.5 16.5c.9-2.3 2-4.6 4.5-5.4.9-.3 1.9-.3 2.9-.3-3.7 5-6 10.9-7.8 17.1-2.7-3-1-7.6.4-11.4zM7.2 72c-3.4-.6-2.3-7.8-1.3-9.8 1.4-2.8 4.5-3.9 6.9-5.6.1 1.1.2 2.2.4 3.2.6 3.6 2.4 6.8 4.8 9.6-3.6 1-7.1 3.3-10.8 2.6zM105 52c.4 1 .6 2.1.7 3.2-1.6-.2-3.2 0-4.9 0H98c1.9-2.8 4.1-4.3 7-3.2zm-9.4 7.6c1.5.2 3 .1 4.5.1 1.7 0 3.5.2 5.3 0-.6 2.9-1.7 5.8-2.6 8.5-2.2-.2-4.4-.2-6.5-.3-1.3 0-2.5-.1-3.8-.2.8-2.6 1.9-5.5 3.1-8.1zm-4.4 12.8c1.6.1 3.3.1 4.9.2 1.8.1 3.5.2 5.3.2-.3 1.7-.5 3.3-.4 5-1.4-.8-2.8-1.5-4.1-2.3-1.9-1.1-3.8-2.2-5.7-3.1zM163 125c-3.2-1.6-5.1-5.1-7.3-8.3 5.3-.3 10.2-1.7 14.1-4.8l.1-.1c.4 1.8 1.1 3.6 1.4 5.6.4 4.6-3.5 10.1-8.3 7.6zm-7.4-13.4c-9.4.6-20-3.5-28.7-6.4-15-5.1-23.9-19-19.8-34.8 1.8-6.9 5.2-13.6 2.1-20.4 0-.7-.4-1.4-1.2-1.8-14.3-7.2-16.3 11-20.6 20.5-.3.3-.5.6-.5 1-8 15.4-26.5 14.4-40.6 9.6-10.4-3.6-23-7.3-27.6-18.5-3.5-8.4 1-21.8 3.1-30.4 3.1-13.4 10-25.2 25.1-25 9.5.1 19.7 4.2 28.6 7.3 9.5 3.3 17.3 9.8 26.6 13.5 17 6.7 35.1 6 52.2 11.9 8.8 3 17.9 5.5 25.2 11.6 11.5 9.5 4.7 27-.2 38.2-5.1 11.2-9.8 22.8-23.7 23.7zm39.1-37.7c-.6 2.6-1.7 5.2-3.1 7.5-1.4 2.2-3.3 2.7-5.5 2.7 2.4-6.3 4.4-13 4.4-19.6 3.5 2 5.5 4 4.2 9.4z"/>
+                </svg>
+                <h1 class="big-text blue">About Us</h1>
+                <div class="normal-text">
+                    What’s the difference between a<br>
+                    standard digital marketing agency and Full Circus?<br>
+                    It’s the same as the difference between a joker and The Joker<br>– Nominal if you don’t notice, phenomenal if you do!
+                </div>
+            </div>
+        </section>
+        <div class="space"></div>
+        <section class="scene screen-2">
+            <span class="elem circus circus-left"></span>
+            <span class="elem circus circus-right"></span>
+            <span class="elem clouds-and-balloon"></span>
+            <div class="center-block">
+                <div class="video">
+                    <video width="620" height="742" muted playsinline poster="https://fullcircus.s3.ap-south-1.amazonaws.com/img/poster-dartboard.jpg">
+                        <source src="https://fullcircus.s3.ap-south-1.amazonaws.com/video/character-no-dart-board.mp4" type="video/mp4">
+                    </video>
+                </div>
+                <span class="elem callout-white" id="callout-dartboard">There are four things you need to know about us</span>
+                <span class="elem callout-black" id="callout-skills">
+                    <span class="callout-anim anim-1">
+                        <span class="gray">
+                            One, we've got the<br>
+                            <strong>experience</strong>
+                        </span>
+                        <span class="black">
+                            10+ years of<br>awesome acts
+                        </span>
+                    </span>
+                    <span class="callout-anim anim-2">
+                        <span class="gray">
+                            Two, we've got the<br>
+                            <strong>skills</strong>
+                        </span>
+                        <span class="black">
+                            25+ in-house<br>performers
+                        </span>
+                    </span>
+                    <span class="callout-anim anim-3">
+                        <span class="gray">
+                            Three, we've got the<br>
+                            <strong>accolades</strong>
+                        </span>
+                        <span class="black">
+                            100+ clients<br>turned fans
+                        </span>
+                    </span>
+                    <span class="callout-anim anim-4">
+                        <span class="gray">
+                            Four, we've got the<br>
+                            <strong>balls</strong>
+                        </span>
+                        <span class="black">
+                            Yup! We dare<br>to defy :)
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </section>
+        <div class="space"></div>
+        <section class="scene section-text section-text-2" id="portfolio">
+            <span class="elem circus circus-left"></span>
+            <span class="elem circus circus-right"></span>
+            <span class="elem hot-air-balloon"></span>
+            <span class="elem clouds"></span>
+            <div class="center-block">
+                <svg viewBox="0 0 200 201.1">
+                    <path d="M188.9 39.1c16.6-12.6 4.3-45.4-18.5-38.1-19.6 6.4-15.9 31.5-1.7 39.4-2.6 21.5 1.5 48-8.7 67.5-6.2 12-29.8-25.2-32-29-5.9-9.9-10.8-20.4-16.5-30.4 11.8-14.1-.4-42-21.5-35.1-21.2 6.9-15.4 35.6 1.6 41 0 .1-.1.3-.1.5.9 21.8 5.4 44.6-.2 66.2C82.5 154.8 43 93.7 34 80.8 47.6 67 35.3 37.3 13.5 44.4-6.4 51-2.3 77 12.8 84.3v.2c3.2 21 11.1 41.5 18.9 61.1 6.4 15.9 14 37.6 26.6 49.8 6.2 6 17.7 5.7 25.6 5.6 14.6-.2 29.3-3.1 43.4-6.6 22.4-5.5 55.1-13.7 69.3-33.9 3-4.3 2.8-9.7 3.1-14.7.8-12.2.2-24.4-.5-36.6-1.4-23.5-4.7-47.1-10.3-70.1zM170 9c15.4-11.1 29.3 19.4 12 26.4-6.1 1.8-11.4-.1-15.6-4.8-6.7-7.4-3.9-16.2 3.6-21.6zM89.4 21.5c15.4-11.1 29.3 19.5 12 26.4-6.1 1.8-11.4-.3-15.6-4.9-6.6-7.4-3.9-16.2 3.6-21.5zM13.1 52.4c15.4-11.1 29.3 19.4 12 26.4-6.1 1.8-11.4-.1-15.6-4.8-6.7-7.4-4-16.2 3.6-21.6zM190.3 157c-5 8.4-16.9 13.4-25.4 17.3-12.6 5.8-26.1 9.9-39.6 13.3-12.9 3.3-26.1 5.5-39.3 6.2-8.8.5-20 1.1-25.5-6.9-20.6-30-32.2-66-41.8-100.8 2.3.3 4.7.1 7.2-.5.3 0 .6-.1.9-.2.4-.1.6-.2.9-.4.6-.3 1.2-.6 1.7-.9 9.2 17.1 40.5 69.4 62.3 49.5 8.7-8 8.4-25.2 8.6-35.9.2-14.2-1.1-28.5-3.2-42.5 1.6 0 3.3-.2 5.1-.6.3 0 .6-.1.9-.2.4-.1.6-.2.9-.4 1-.4 1.9-.9 2.8-1.4 7.7 15.2 15.3 30.6 25.1 44.7 4.8 7 14.7 21.8 25.1 20.1 9.7-1.7 11.9-13.3 13.5-21.5 3.3-17.4 3.2-35.6 3.8-53.3 2.6.5 5.5.4 8.5-.3.1 0 .3-.1.4-.1 3.7 20.8 6.8 41.8 8.5 62.9.8 9.8 1.1 19.6 1.1 29.3.1 6.8 1.3 16.5-2.5 22.6z"/>
+                    <path d="M100.4 40.5c-3-.1-5.6.1-8.4-1.3-2.2-1.1-3.5-4.3-5.9-4.8-.1-.1-.3.1-.4.2-1.1 2.9 3.3 6.4 5.3 7.7 3 1.9 7.2 2.1 10-.1.8-.6.1-1.7-.6-1.7zM25 74.5c.2-.1.1-.6-.1-.7-2.8-1.2-5.7-1.1-8.4-2.6-2.3-1.2-3.7-3.7-6.2-4.6-.1-.1-.4.1-.4.2-.5 3.1 2.6 5.6 5 7.1 3 1.9 7.2 3 10.1.6zM180.8 29.5c-2.6-1-5.3-1.1-7.8-2.6-2.7-1.7-3.3-4.5-5.2-6.7-.4-.4-.9-.1-1.1.3-1 3.1 1.9 6.8 4.3 8.5 2.8 2.1 6.9 3.8 10 1.6.4-.3.3-.9-.2-1.1zM153.7 168.3c-14 3.7-27.9 7.7-42.1 10.9-16.1 3.6-34.1 8.9-49.1 0-.3-.1-.6.2-.4.4 9.6 11.6 24.4 8.4 37.6 6.1 18.6-3.1 37.6-7.6 54.3-16.3.8-.3.3-1.2-.3-1.1zM161.4 164.5c-1.1.5-2.7 1.1-3.3 2.3-.1.1 0 .4.1.4 1.3.3 2.7-.5 3.9-.9 1.5-.6 2.8-1 3.9-2.3.2-.3.1-.6-.3-.6-1.6-.1-2.8.5-4.3 1.1z"/>
+                </svg>
+                <div class="big-text light-red">
+                    Portfolio<br> & Clients
+                </div>
+                <div class="normal-text">
+                    From newbies to big groups, we love performing for one and all.<br>
+                    In fact, we’ve even done some special shows for those<br>celestial creatures called Unicorns.
+                </div>
+            </div>
+        </section>
+        <div class="space"></div>
+        <section class="scene screen-3">
+            <span class="elem circus circus-left"></span>
+            <span class="elem circus circus-right"></span>
+            <div class="portfolio-block">
+                <div class="portfolio-slider slider-desktop">
+                    <div>
+                        <picture>
+                            <img src="img/portfolio-tripadvisor.jpg" alt="Social Media Portfolio Tripadvisor" width="1920" height="1080">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/portfolio-nandos.jpg" alt="Digital Ads Portfolio Nando's" width="1920" height="1080">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/portfolio-blackberry.jpg" alt="Social Media Portfolio BlackBerry" width="1920" height="1080">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/portfolio-hsbc.jpg" alt="Content Portfolio HSBC" width="1920" height="1080">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/portfolio-lead.jpg" alt="Website Portfolio LEAD School" width="1920" height="1080">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/portfolio-sansui.jpg" alt="Social Media Portfolio Sansui" width="1920" height="1080">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/portfolio-max.jpg" alt="Social Media Portfolio MAX Estates" width="1920" height="1080">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/portfolio-jiva.jpg" alt="Content Portfolio Jiva" width="1920" height="1080">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/portfolio-spice-market.jpg" alt="Branding Portfolio Spice Market" width="1920" height="1080">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/portfolio-pass-pass.jpg" alt="Social Media Portfolio Pass Pass" width="1920" height="1080">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/portfolio-gunas.jpg" alt="Website Portfolio GUNAS New York" width="1920" height="1080">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/portfolio-gionee.jpg" alt="Social Media Portfolio Gionee" width="1920" height="1080">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/portfolio-park+.jpg" alt="Social Media Portfolio Park+" width="1920" height="1080">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/portfolio-skin-alive.jpg" alt="Website Portfolio Skin Alive" width="1920" height="1080">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/portfolio-raja-radha-reddy.jpg" alt="Branding Portfolio Raja Radha Reddy" width="1920" height="1080">
+                        </picture>
+                    </div>
+                </div>
+                <div class="portfolio-slider slider-mobile">
+                    <div>
+                        <picture>
+                            <img src="img/mobile/portfolio-trip-advisor.jpg" alt="Social Media Portfolio Adfluence" width="700" height="1000">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/mobile/portfolio-nandos.jpg" alt="Social Media Portfolio Adfluence" width="700" height="1000">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/mobile/portfolio-blackberry.jpg" alt="Social Media Portfolio Adfluence" width="700" height="1000">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/mobile/portfolio-hsbc.jpg" alt="Social Media Portfolio Adfluence" width="700" height="1000">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/mobile/portfolio-lead.jpg" alt="Social Media Portfolio Adfluence" width="700" height="1000">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/mobile/portfolio-sansui.jpg" alt="Social Media Portfolio Adfluence" width="700" height="1000">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/mobile/portfolio-max.jpg" alt="Social Media Portfolio Adfluence" width="700" height="1000">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/mobile/portfolio-jiva.jpg" alt="Social Media Portfolio Adfluence" width="700" height="1000">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/mobile/portfolio-spice-market.jpg" alt="Social Media Portfolio Adfluence" width="700" height="1000">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/mobile/portfolio-pass-pass.jpg" alt="Social Media Portfolio Adfluence" width="700" height="1000">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/mobile/portfolio-gunas.jpg" alt="Social Media Portfolio Adfluence" width="700" height="1000">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/mobile/portfolio-gionee.jpg" alt="Social Media Portfolio Adfluence" width="700" height="1000">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/mobile/portfolio-par+.jpg" alt="Social Media Portfolio Adfluence" width="700" height="1000">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/mobile/portfolio-skin-alive.jpg" alt="Social Media Portfolio Adfluence" width="700" height="1000">
+                        </picture>
+                    </div>
+                    <div>
+                        <picture>
+                            <img src="img/mobile/portfolio-raja-reddy.jpg" alt="Social Media Portfolio Adfluence" width="700" height="1000">
+                        </picture>
+                    </div>
+                </div>
+            </div>
+            <div class="video">
+                <video width="364" height="640" loop autoplay muted playsinline>
+                    <source src="video/character-with-reel.mp4" type="video/mp4">
+                </video>
+            </div>
+        </section>
+        <section class="scene screen-4">
+            <span class="elem circus circus-left"></span>
+            <span class="elem circus circus-right"></span>
+            <span class="elem clouds-and-balloon"></span>
+            <div class="center-block">
+                <div class="dog-block">
+                    <div class="video">
+                        <video width="260" height="221" loop muted playsinline poster="https://fullcircus.s3.ap-south-1.amazonaws.com/img/poster-walking-dog.jpg">
+                            <source src="https://fullcircus.s3.ap-south-1.amazonaws.com/video/walking-dog1.mp4" type="video/mp4">
+                        </video>
+                    </div>
+                    <div class="elem callout" id="callout-reel">
+                        Oh, So Many<br>
+                        <span class="word-1">Clients</span>
+                        &nbsp;<span class="word-2">Fans</span>
+                    </div>
+                </div>
+                <div class="reel-block">
+                    <span class="elem reel-roll left"></span>
+                    <div class="reel-slider">
+                        <div>
+                            <div class="img-box">
+                                <img src="img/client-fedex.png" alt="client logo fedex" width="304" height="142">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="img-box">
+                                <img src="img/client-tripadvisor.png" alt="client logo trip advisor" width="304" height="142">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="img-box">
+                                <img src="img/client-nandos.png" alt="client logo nandos" width="304" height="142">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="img-box">
+                                <img src="img/client-blackberry.png" alt="client logo blackberry" width="304" height="142">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="img-box">
+                                <img src="img/client-hsbc.png" alt="client logo hsbc" width="304" height="142">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="img-box">
+                                <img src="img/client-sansui.png" alt="client logo sansui" width="304" height="142">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="img-box">
+                                <img src="img/client-max.png" alt="client logo max" width="304" height="142">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="img-box">
+                                <img src="img/client-pass-pass.png" alt="client logo pass pass" width="304" height="142">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="img-box">
+                                <img src="img/client-jiva.png" alt="client logo jiva" width="304" height="142">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="img-box">
+                                <img src="img/client-newu.png" alt="client logo newu" width="304" height="142">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="img-box">
+                                <img src="img/client-chilis.png" alt="client logo chilis" width="304" height="142">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="img-box">
+                                <img src="img/client-gionee.png" alt="client logo gionee" width="304" height="142">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="img-box">
+                                <img src="img/client-lead.png" alt="client logo lead" width="304" height="142">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="img-box">
+                                <img src="img/client-gunas.png" alt="client logo gunas" width="304" height="142">
+                            </div>
+                        </div>
+                        <div>
+                            <div class="img-box">
+                                <img src="img/client-park+.png" alt="client logo park+" width="304" height="142">
+                            </div>
+                        </div>
+                    </div>
+                    <span class="elem reel-roll right"></span>
+                </div>
+            </div>
+        </section>
+        <div class="wrap2">
+            <div id="wrap2">
+                <svg id="path2" viewBox="0 0 1126.96 10407.91">
+                    <path class="pathLine2" d="M229.3,33.65c-7.25,13.83-27.39,107.53,27.07,215.05c0,0,50.41,78.43,64.11,216.17 c7.53,75.75,94.1,130.87,92.84,208.47c-0.77,47.66-1.97,120.39,41.63,151.87c12.94,9.34,28.76,12.77,44.54,12.07 c4.98-0.24-3.24-24.89-3.79-34.53c-0.32-4.74,2.13-9.64,4.27-10.75c1.26-0.71,4.98-1.11,6.95,3.87c2.77,6.87,2.21,17.78,5.14,32.16 c2.84,14.86,8.69-1.98,8.69-1.98s4.98-16.12,7.51-21.26c1.11-2.29,4.11-6.87,7.66-4.5c1.58,1.11,5.77,3.32,3.56,9.88 c-0.55,1.58-1.9,7.51-4.43,13.28c-1.42,3.32-3.32,8.3-4.43,10.98c-0.16,0.4,0,0.79,0.24,1.03c2.45,1.9,1.9,3.63,1.82,10.59 c0,0.16,0,0.24-0.08,0.4c-1.27,3.01,5.4-1.76,6.8,15.43c0,0.05-0.01,0.1-0.01,0.15c-3.71,17.69-10.67,9.4-14.78,29.55 c-1.98,16.67-10.9,7.59-19.12,6.87c-0.08,0-0.16,0-0.24-0.08c-7.74-2.92-13.04-4.74-11.06-14.07c2.29-11.22-6.32-22.44-1.98-36.59 c4.27-13.91,14.07-12.17,22.76-8.61c0.16,0.08,0.24,0.08,0.4,0.08c6.08-0.4,9.4-6.48,14.7-3.48c0.08,0,0.08,0,0.16,0.08 c13.91,4.48,66-5.07,247.86,41c78.49,19.93,161.07,49.8,208.39,120.17c23.66,35.19,40.7,79.23,26.22,119.04 c-45.39,124.83-279.51,68.87-514.17,222.26s-311.48,459.39-302.09,606.52c9.39,147.13,16.04,231.65,43.83,403.83 c15,92.97,22.77,329.09,272,533.35c199.1,163.17,295.39,421.43,318.87,525.91c22.71,101.06,29.35,285.26-5.48,383.87 c-53.1,150.34-324.78,208.57-365.48,421.43c-40.7,212.87-41.4,260.96-166.7,440.22c-160.83,230.09,66.07,465.19,260.61,605.74 c287.61,207.78,343.96,326.35,237.13,859.3c-41.14,205.26-13.23,409.62-89.22,549.39c-148.2,272.63-463.7,424.96-515.35,763.04 c-31.93,209.01,37.61,342.43,173.74,488.35c155.34,166.5,301.95,250.16,351,459c14.34,61.07-2.31,161.98-15.26,224.22 c-6.48,31.15-38.97,104.97-50.48,135c-37.93,98.92-50.72,190.57,16.43,275.87c130.3,165.52-24.89,274.58-57.52,301.7 c-166.7,138.52-489.66,307.7-403.83,678.52c29.35,126.78,192.52,334.96,590.48,334.51" fill="none" stroke="#aaa" stroke-width="1px"/>
+                    <g class="pathBall2">
+                        <path fill="#FF493D" d="M0.3,28.2c0,15.4,12.5,27.9,28,27.9s27.9-12.5,27.9-27.9c0-15.4-12.5-28-27.9-28S0.3,12.8,0.3,28.2"/>
+                        <path fill="#3D4252" d="M0,28.2C0,12.7,12.7,0,28.2,0c15.6,0,28.2,12.7,28.2,28.2S43.8,56.4,28.2,56.4C12.7,56.4,0,43.8,0,28.2 M0.5,28.2c0,15.3,12.4,27.7,27.7,27.7s27.7-12.4,27.7-27.7S43.5,0.5,28.2,0.5S0.5,12.9,0.5,28.2"/>
+                        <path fill="#008CB8" d="M27.5,12.4c0,0,20.6-2.1,28.7,16.4c0,0,0.3,21.6-21.7,26.7c-0.9,0.2-1.9,0.3-2.8,0.5c0,0,9.7-20.3-6.1-40.3 L27.5,12.4z"/>
+                        <path fill="#3D4252" d="M31.4,55.8c0-0.1,2.4-5.1,2.8-12.6c0.3-4.4-0.2-8.7-1.4-12.8c-1.4-5.2-4-10.1-7.6-14.6l-0.1-0.1l2.1-3.5l0.1,0 c0.1,0,5.3-0.5,11.4,1.3c5.7,1.6,13.3,5.6,17.5,15.3l0,0l0,0.1c0,0.1,0,5.5-2.6,11.5c-1.6,3.5-3.8,6.6-6.5,9 c-3.4,3.1-7.7,5.2-12.8,6.4c-0.7,0.2-1.5,0.3-2.3,0.4c-0.2,0-0.3,0.1-0.5,0.1l-0.5,0.1L31.4,55.8z M48.1,18.6 c-2.7-2.1-5.8-3.7-9.4-4.7c-5.5-1.6-10.3-1.3-11.1-1.2l-1.8,2.9c3.6,4.6,6.1,9.5,7.5,14.7c1.2,4.2,1.6,8.6,1.4,13 c-0.4,6.3-2.1,10.9-2.7,12.3l0.1,0c0.8-0.1,1.6-0.2,2.3-0.4c5-1.2,9.2-3.3,12.6-6.3c2.7-2.4,4.8-5.4,6.4-8.8 c2.5-5.6,2.6-10.7,2.6-11.3C54.1,24.7,51.5,21.3,48.1,18.6"/>
+                        <path fill="#C60D44" d="M25.2,8.7c0,0,4.9-6.1,14.7-5.9c0,0-12.1-6.3-25.4,1.1c0,0,4.7,4,4.9,4.8H25.2z"/>
+                        <path fill="#3D4252" d="M19.1,8.8c-0.2-0.6-3-3.2-4.8-4.7L14,3.8l0.3-0.2c6.9-3.9,13.5-4,17.9-3.4C36.8,1,39.9,2.6,40,2.6l1,0.5 l-1.1,0c-0.2,0-0.4,0-0.5,0c-9.2,0-13.9,5.8-13.9,5.8L25.3,9h-6.2L19.1,8.8z M38.7,2.5c-1.3-0.5-3.6-1.3-6.6-1.7 c-4.2-0.6-10.5-0.5-17.2,3.1c1.1,0.9,4.1,3.5,4.6,4.5h5.6C25.7,7.7,30.3,2.8,38.7,2.5"/>
+                        <path class="layerOpacity" d="M28.2,13.2c0,0,0.1,1.4-1,2.6c0,0,18.4,13.1,18.2,31.6c0,0,5.6-4.8,7.6-11c2-6.2,1.2-8.4-2.6-13.4 C46.8,18,37.3,13,28.2,13.2"/>
+                        <path class="layerOpacity" d="M28.4,8.7c0,0,0.9,0.6,1.2,1.6c0,0,6.7-1.6,20.6,4.5c0,0-1.8-5.2-6.1-8.2c-4.4-3-5.6-2.4-9.8-0.8C30.1,7.5,28.4,8.7,28.4,8.7"/>
+                        <path fill="#FF8900" d="M17.2,14.8c0,0-16.4,6.4-6.6,35.1c0,0-8.5-6.1-10.1-17.6C-1,20.9,4.8,12.9,4.8,12.9s3.8-1.5,11.6-0.7 L17.2,14.8z"/>
+                        <path fill="#3D4252" d="M10.4,50.1C10.3,50,1.8,43.8,0.3,32.4c-1.6-11.4,4.3-19.5,4.4-19.6l0-0.1l0.1,0c0.2-0.1,4-1.5,11.7-0.7l0.2,0 l0.9,3L17.3,15c0,0-4.1,1.6-6.9,6.7c-1.6,3-2.5,6.5-2.7,10.6c-0.2,5.1,0.9,11,3.1,17.5l0.3,0.8L10.4,50.1z M16.2,12.4 c-3.9-0.4-6.8-0.2-8.5,0C6.2,12.7,5.2,13,5,13.1c-0.5,0.8-5.7,8.5-4.2,19.2C2,41.6,8,47.4,10.1,49.1c-2-6.3-3-11.9-2.8-16.9 c0.1-4.1,1.1-7.8,2.8-10.8c2.5-4.6,6-6.4,6.9-6.8L16.2,12.4z"/>
+                        <path fill="#C60D44" d="M15.7,12.5c0,2.9,2.7,5.2,6.1,5.2s6.1-2.3,6.1-5.2s-2.7-5.2-6.1-5.2S15.7,9.6,15.7,12.5"/>
+                        <path fill="#3D4252" d="M15.4,12.5c0-3,2.9-5.4,6.4-5.4s6.4,2.4,6.4,5.4s-2.8,5.4-6.4,5.4S15.4,15.5,15.4,12.5 M15.9,12.5 c0,2.7,2.6,4.9,5.8,4.9c3.2,0,5.8-2.2,5.8-4.9S25,7.6,21.8,7.6C18.5,7.6,15.9,9.8,15.9,12.5"/>
+                        <path fill="#FF8900" d="M18.4,12.4c0,1.6,1.5,2.8,3.3,2.8c1.8,0,3.3-1.3,3.3-2.8c0-1.6-1.5-2.8-3.3-2.8C19.9,9.6,18.4,10.9,18.4,12.4"/>
+                        <path class="layerOpacity" d="M13,4.7c0,0-8.1,12.3,0,29.4C21.1,51.3,40.7,51,46.3,49.9c0,0-1.7,1.3-3.7,2.5c-1.7,1-3.7,1.8-5,2.2 c0,0-2.2-0.1-3.9-0.4c-1.7-0.3-11.2-1.8-19.6-10.6c0,0-6.8-6.2-7.7-15.7c-0.9-9.5,1.4-16.2,2.8-20C9.2,7.7,11.4,5.8,13,4.7"/>
+                        <path class="layerOpacity" d="M9.2,7.7c-5.5,5.1-8.9,12.4-8.9,20.5c0,15.4,12.5,27.9,28,27.9c3.3,0,6.4-0.6,9.4-1.6c0,0-13.4-0.5-24.1-11.7 l-0.6-0.6c-6.5-6.9-6.7-16.7-6.7-16.7C5.6,16.9,9.2,7.7,9.2,7.7"/>
+                    </g>
+                    <g id="services">
+                        <path d="M535.44,844.63c1.03-4.03,0.08-7.9-2.77-10.83c-0.24-0.32-0.4-0.71-0.16-1.03c1.66-3.24,3.32-7.11,4.27-10.59 c1.26-4.74,3.32-8.69,4.43-13.28c1.42-6.4-1.03-11.85-6.95-11.62c-2.69,0.16-4.27,2.37-5.69,4.9c-1.9,3.32-3.87,8.38-4.43,12.56 c-0.4,3.48-2.53,7.11-3.71,10.43c-0.71,1.74-1.26,3.63-2.45,5.14c-1.98,2.77-3.56-4.11-3.79-5.77c-0.4-2.13-0.55-4.27-0.71-6.56 c-0.16-1.74-0.87-3.87-1.11-5.61c-0.71-4.74-1.11-9.72-1.9-14.54c-0.87-5.29-3.79-9.48-8.53-8.38c-6.08,1.26-5.45,8.93-4.98,14.54 c0.24,2.13,0.4,4.27,0.79,6.4c0.4,2.53,0.71,5.22,1.11,7.9c0.87,5.37,2.13,10.83,1.98,16.28c0,0.32-0.16,0.55-0.4,0.79 c-3.4,2.13-6.4,5.29-7.03,10.04c-0.32,2.53-1.26,4.9-1.58,7.51c-0.24,2.29,0,4.5,0.24,6.8c0.24,2.37,0.55,4.9,1.11,7.27 c0.79,2.69,0.87,5.29,1.26,8.14c0.55,4.03,1.58,7.27,0.32,11.22c-0.71,1.98-0.4,3.71,0.79,5.29c1.98,2.92,6.08,4.27,8.93,5.53 c1.98,0.79,3.87,1.58,5.77,2.37c0.79,0.4,1.98,0.24,2.77,0.16c1.66-0.16,3.08,1.11,4.66,1.11c2.84-0.16,5.69,0.16,7.11-3.24 c0.71-1.74,1.03-3.87,1.26-5.69c0,0,0,0,0-0.08c0.79-3.63,1.9-6.56,3.87-9.56c2.77-4.03,5.22-8.38,8.22-12.41 c2.21-2.92,3.95-9.25,3.24-13.12c-0.79-4.66-2.05-9.25-5.45-11.06C535.44,845.5,535.28,845.03,535.44,844.63z M533.62,844.24 c-0.16,0.4-0.47,0.71-0.95,0.63c-3.48-0.16-6.56,1.74-9.4,4.11c-0.16-0.16-0.16-0.16-0.24-0.24c-0.16-0.08-0.24-0.24-0.4-0.32 c-0.24-0.24-0.32-0.71-0.16-1.03c0.24-0.47,0.47-1.03,0.71-1.58v-0.08c0.87-2.77,0.87-5.53-0.87-7.66c0-0.08-0.08-0.08-0.16-0.16 c-0.4-0.4-0.4-0.95,0.08-1.34c2.45-1.9,5.69-3.48,8.14-1.9C533.78,836.42,534.73,840.53,533.62,844.24z M524.85,853.72 c0.4,0.24,1.42,0.71,1.58,1.26c0.24,1.58-0.24,2.77-0.79,4.27c-0.79,1.58-2.53,1.9-3.87,1.5c-1.5-0.4-2.53-1.74-2.77-3.32 c0-0.16,0-0.4,0.08-0.55c0.79-1.5,1.9-2.84,3.08-4.03c0.16,0.16,0.24,0.24,0.32,0.47c0.55,0.79,1.26,1.26,2.13,1.74 c0.16,0.16,0.24-0.16,0.16-0.24c-0.55-0.47-1.03-1.11-1.42-1.74c-0.24-0.24-0.32-0.47-0.4-0.79c0.16-0.16,0.16-0.16,0.24-0.16 C523.43,852.85,523.98,853.33,524.85,853.72z M516.08,855.93c-0.63-0.55-1.19-1.19-1.58-1.98c-0.32-0.55,0-1.26,0.71-1.34 c0,0,0,0,0.08,0c0.4-0.08,0.71,0.16,0.95,0.47c0.32,0.55,0.71,1.11,1.11,1.42c0.32,0.24,0.4,0.71,0.24,1.11l0,0 C517.27,856.25,516.56,856.33,516.08,855.93z M521.85,848.98c0.08,0.08,0.16,0.16,0.24,0.32c0.32,0.4,0.32,0.87-0.08,1.19 c-0.55,0.55-1.11,1.11-1.58,1.74c-0.4,0.32-0.71,0.79-1.03,1.19c-0.4,0.47-1.11,0.47-1.42,0c-0.08-0.16-0.16-0.32-0.24-0.4 c-0.24-0.24-0.32-0.47-0.4-0.71C518.77,851.75,520.59,850.56,521.85,848.98z M520.59,842.66c-0.71,1.26-2.21,1.74-3.56,1.58 c-1.66-0.16-3.4-1.26-3.08-3.63c0.16-0.87,0.24-1.74,0.24-2.69c0.16,0,0.24,0,0.24,0c0.16,0.4,0.24,0.79,0.24,1.26 c0.16,0.71,0.16,1.26,0.24,1.98c0.16,0.16,0.24,0.16,0.24,0c0.16-0.47,0.32-1.42,0.32-2.29c0-0.47,0.47-0.87,0.95-0.87 c1.5,0.16,3.08,0.32,4.19,0.95c0.16,0.08,0.32,0.32,0.4,0.55C521.14,840.53,521.06,841.71,520.59,842.66z M499.8,810.74 c-1.42-5.77-3.79-21.65,4.98-19.52c3.4,0.79,3.95,5.77,4.27,9.25c0.4,4.11,1.26,8.3,1.66,12.41c0.4,3.24,0.87,6.4,1.26,9.64 c0.4,2.92,1.03,6.8,2.69,9.25c5.45,7.51,11.06-17.31,12.41-20.78c1.58-4.03,2.77-9.72,6.56-11.22c2.21-0.87,4.66,0.71,5.85,2.77 c1.11,1.98,0.16,5.22-0.4,7.27c-1.03,3.87-2.84,7.27-3.87,10.9c-0.95,3.79-2.61,7.74-4.27,11.22c-0.16,0.4-0.63,0.55-1.03,0.47 c-3.32-0.95-7.27,1.5-9.96,3.95c-0.24,0.24-0.55,0.32-0.79,0.24c-2.77-0.63-6.08-0.08-8.3-0.71c-2.45-0.71-4.82-1.98-7.27-1.74 c-0.55,0.08-1.03-0.4-1.03-0.95c0-3.08-0.47-5.93-1.03-8.77v-0.08C500.99,819.59,500.83,815,499.8,810.74z M538.37,865.89v0.08 c-1.03,2.37-3.08,4.43-4.43,6.48c-2.29,3.63-5.45,7.27-7.19,11.22c-1.66,3.63-2.13,7.9-3.08,11.77c-1.03,3.71-5.53,2.92-7.82,2.13 c-2.29-0.79-4.58-0.47-6.95-1.74c-3.87-1.98-8.06-2.37-11.54-5.61c-1.9-1.9-0.55-4.03-0.16-6.16c0.87-3.87-0.79-7.27-1.03-10.83 c-0.4-5.29-1.9-10.11-2.45-15.49c-0.24-2.29-0.24-4.27,0.24-6.56c0.55-2.77,1.11-7.27,2.53-9.64c1.34-1.98,3.32-4.11,5.45-5.14 c0.55-0.24,1.19,0.08,1.26,0.63c0.08,0.4,0.16,0.71,0.24,1.03c0.4,1.26,1.11,2.29,1.74,3.48c0.16,0.24,0.4,0.16,0.4-0.24 c-0.24-0.87-0.4-1.74-0.71-2.69c-0.32-1.11-0.71-1.9-0.4-2.92c0-0.16,0-0.16,0-0.16c2.29-0.16,4.74,1.26,6.95,1.98 c0.24,0.08,0.55,0.16,0.87,0.24c0.4,0.08,0.79,0.47,0.71,0.87c0,1.82-0.63,3.4,0.55,4.9c1.26,1.58,3.32,1.9,4.98,1.58 c1.98-0.4,3.08-2.29,3.32-4.27c0.24,0.79,0.24,1.9-0.16,3.24c-1.26,6.4-8.53,7.74-12.96,5.61c-0.16,0-0.16,0-0.16-0.16 c-0.32-0.16-0.55-0.24-0.79-0.47c-1.03-0.71-1.9,1.26-0.87,1.74c0.16,0.16,0.24,0.16,0.4,0.24c-1.26,0.87-3,1.26-4.43,1.5 c-1.11,0.16-1.11,2.13,0,2.13c1.74-0.16,4.11-0.55,5.69-1.98c0.32-0.32,0.87-0.32,1.19,0c3.16,2.92,2.61,8.93,1.66,13.35 c-0.16,0.16-0.16,0.24-0.16,0.4c-0.55,1.11-0.71,2.29-0.87,3.48c-0.32,1.74-1.26,3.08-1.42,4.74c-0.24,1.26,1.42,1.9,1.66,0.47 c0.32-2.13,1.26-4.27,1.66-6.56c0.32-2.21,1.82-4.27,3.24-6.01c0.4-0.47,1.11-0.47,1.5,0.08c0.71,1.19,1.66,2.13,2.61,2.84 c4.74,3.48,10.98-1.58,13.12-6.8c0.55-1.26-1.03-2.29-1.42-1.11c-1.98,4.9-7.66,9.09-11.77,5.14c-1.26-1.26-1.66-2.53-1.58-4.03 c0.32,0.71,0.87,1.26,1.58,1.98c1.26,1.26,3.56,1.5,5.14,0.47c1.66-1.11,3-3.87,2.69-6.24c-0.24-1.26-0.32-1.58-1.26-2.29 c-0.71-0.32-1.19-0.71-1.74-1.19c-0.4-0.4-0.4-1.03,0-1.34c0.24-0.24,0.55-0.47,0.79-0.63c1.11-1.03,2.37-1.74,3.71-2.21 c0.24-0.08,0.55-0.08,0.79,0.08c0.63,0.4,1.34,0.63,1.98,1.03c1.11,0.71,2.53,1.74,3.08,3.24c0.16,0.24,0.4,0.16,0.32-0.16 c-0.4-1.74-1.26-2.92-2.53-4.03c-0.32-0.24-0.71-0.47-1.03-0.79c0.55-0.16,1.11-0.16,1.58-0.16c4.11,0.24,5.14,4.74,6.32,8.69 C540.34,858.46,539.24,863.36,538.37,865.89z"/>
+                        <path d="M531.41,815.79c1.11,0.4,2.77,0.87,3.71,0.16c0.16-0.16,0.16-0.24,0-0.4c-0.71-0.79-1.9-0.71-2.92-0.87 c-0.08,0-0.08,0-0.16,0c-1.26-0.4-2.45-1.11-3.79-1.58c-0.16-0.16-0.24,0.16-0.16,0.24C528.96,814.61,530.07,815.32,531.41,815.79z"/>
+                        <path d="M530.07,827.01c0.24-0.16,0.24-0.4,0-0.47c-0.79-0.47-1.66-0.47-2.29-0.87c-0.87-0.4-1.74-0.79-2.69-0.79 c-0.24,0-0.24,0.24-0.16,0.4C526.12,826.22,528.65,828.2,530.07,827.01z"/>
+                        <path d="M504.78,809.79h0.08c1.11-0.16,2.61-0.16,3.48-0.87c0.24-0.24,0.24-0.71-0.16-0.71c-1.11-0.24-2.13,0.24-3.08,0.4 c-1.26,0.24-2.53,0.24-3.79,0.71c-0.24,0.16-0.24,0.4,0,0.4C502.49,809.79,503.68,809.79,504.78,809.79z"/>
+                        <path d="M504.31,824.41c-0.16,0.16-0.16,0.24,0,0.24c1.03,0.4,1.98,0.24,3-0.16c0.79-0.24,1.9-0.79,2.21-1.74 c0.16-0.16-0.16-0.4-0.24-0.47c-0.87-0.16-1.5,0.63-2.21,1.03c-0.08,0-0.08,0.08-0.16,0.08 C505.97,823.77,505.1,824.01,504.31,824.41z"/>
+                        <path d="M527.22,835.63c-0.16,0.16-0.24,0.24-0.16,0.24c0.4,0.4,0.87,0.71,1.26,1.26c0.4,0.47,0.87,1.19,1.19,1.66 c0,0,0,0,0.08,0.08c0.55,0.87,1.03,2.37,1.98,2.77c0.16,0.16,0.24-0.16,0.24-0.24c0-1.26-1.11-2.77-1.74-3.87 C529.44,836.65,528.33,835.31,527.22,835.63z"/>
+                        <path d="M519.16,895.84c-1.9-0.71-3.87-1.11-5.77-1.74c-1.9-0.71-3.79-1.74-5.69-2.37c-3.08-1.26-6.8-1.26-9.64-3.32 c-0.16-0.16-0.24,0.16-0.16,0.16c1.9,2.92,5.69,2.77,8.3,3.87c3.95,1.5,8.53,5.14,12.8,3.87 C519.24,896.23,519.24,895.92,519.16,895.84z"/>
+                    </g>
+                </svg>
+            </div>
+            <div class="space"></div>
+            <section class="scene section-text section-text-3" id="services">
+                <span class="elem circus circus-left"></span>
+                <span class="elem circus circus-right"></span>
+                <span class="elem hot-air-balloon"></span>
+                <span class="elem clouds"></span>
+                <div class="center-block">
+                    <svg viewBox="0 0 160 296.3">
+                        <path d="M139.1 149.9c4.7-12 1.1-24-9.4-31.9 5.8-8.9 11.5-19.9 14.7-29.9 3.8-12.4 10.6-23.1 14.2-35.6 4.8-16.8-3.2-31.8-22.3-30.8-8.3.4-13.9 6.6-18.2 13-6 8.9-12.5 22.5-14.3 33.2-1.5 9.2-8.1 18.9-11.7 27.6-2 4.8-4.4 9.6-7.9 13.6-6.3 7.4-11.2-11-12.2-15.2-1.4-5.8-1.8-11.4-2-17.3-.2-4.7-2.9-10.1-3.6-14.9-2-12.9-3.7-26-6.1-38.8C57.6 8.5 48.4-2.2 33 .4 13.6 3.7 15.5 24.1 17 39.2c.6 5.6 1.3 11.3 2.5 16.9C20.9 63 21.6 70 23 76.9c2.9 14.6 7.3 29.6 6.4 44.6-11.2 6-21.8 14.5-24 27.5-1.1 6.7-4.2 13-5.1 19.8-.8 6 0 12.1.7 18.1.7 6.5 1.6 13 3.6 19.2 2.3 7.3 2.8 14.2 4.2 21.7 1.9 10.6 5.1 19.4.9 30-2.1 5.3-1.2 9.8 2.3 14.2 6.4 7.8 19.6 11.3 28.8 14.5 6.3 2.1 12.3 4.1 18.4 6.6 2.3.9 6.5.5 8.9.4 5.2-.1 9.9 2.8 15 2.7 9-.1 18.1.3 22.9-8.3 2.5-4.5 3.2-10.3 4.3-15.3 2.4-9.9 6.1-17.5 12.6-25.4 8.9-10.8 16.7-22.4 26.2-32.8 7.2-7.9 12.7-24.3 10.1-34.9-3.2-12.8-7.7-25.7-20.1-29.6zm-5.6-1.1c-11.9-1.1-22.7 3.9-32.1 10.8-.1-.2-.3-.4-.5-.6-.9-.7-1.9-1.4-2.6-2.3 1.2-1.7 2.2-3.6 3-5.7 2.8-7.4 2.9-14.8-2.8-20.7-.8-.8-1.7-1.5-2.7-2.1 8-5.8 20-11.2 28.9-6.8 10.4 5.1 13.3 17.3 8.8 27.4zM106 172.4c1.3.7 4.7 1.6 4.9 3.3.7 4.2-.5 7.6-2.5 11.2-2.4 4.4-8.2 4.9-12.6 4-5.1-1.1-8.5-4.9-8.9-9.7 2.3-4.1 6.1-8.1 10.2-11.5l.9 1.2c1.8 2.2 4 3.7 6.7 4.6.4.1.7-.4.4-.7-1.7-1.4-3.3-2.9-4.8-4.5-.6-.6-1-1.3-1.3-2.1.2-.1.4-.3.5-.4 1.9 1.9 4 3.3 6.5 4.6zm-25 7.8c-4.3-2.5-8-5.6-9.8-10.2 2-.1 4.1-.4 6-.7 1.4 2.8 3.8 5.6 6.6 6.6-1.1 1.3-2.1 2.8-2.8 4.3zm15.1-20.9c.8.8 1.7 1.6 2.7 2.2-2.7 2.1-5.2 4.3-7.6 6.6-1.6 1.5-3.3 3.1-4.8 4.7-1.6.5-3.4-1.5-4.4-2.5-.5-.6-.9-1.2-1.3-1.9 5.9-1.6 11.4-4.6 15.4-9.1zm-3.8-16.7c-2.2 3.7-7.3 4.5-11.2 4.4-5.2-.2-10.9-3.5-9.9-9.4.4-2.5.8-4.7.6-7h.8c.2 1 .6 2 .6 3 .1 1.9.3 3.7.7 5.5.1.4.7.4.8 0 .5-1.7 1.4-5.7.9-8.4 6.4.2 13.1.5 17.3 3 1.2 2.8 1 6.1-.6 8.9zM25.7 57.7C21 42.5 13.6.2 41.7 5.8c10.9 2.1 12.8 15.4 13.7 24.3 1.2 11 3.8 21.9 5.4 32.9 1.3 8.6 2.7 16.9 4.2 25.4 1.4 7.8 3 18 8.5 24.3 17.5 19.7 35.6-46.2 39.7-55.3 4.9-10.6 8.7-26 21.1-29.9 7.2-2.3 15 1.6 18.9 7.5 3.7 5.5.3 13.8-1.3 19.5-3 10.4-9.3 19-12.4 29.3-3.2 10.7-8.8 22-14.9 31.5-11.4-4.2-26.2 3.4-35 10.5-9-2.2-20.6-.4-28.2-2.2-8.7-2.1-17.8-6-26.6-4.1.2-9-1.5-17.6-3.2-26.4-2.1-11.9-2.4-24.2-5.9-35.4zm123.4 146.9c-3 6.5-9.8 11.8-14.2 17.5-7.4 9.6-17.3 19.1-23.3 29.7-5.4 9.7-6.7 20.9-10 31.4-3 9.8-17.6 7.8-25.2 5.7-7.7-2.2-14.6-1.2-22.3-4.5-12.3-5.3-25.9-6.5-36.8-15.1-6.2-4.9-1.7-10.5-.1-16.3 2.7-10.1-2.4-19-3.3-28.7-1.4-14.1-6.3-27.1-7.9-41.3-.7-6-.8-11.5.6-17.4 1.8-7.5 3.5-19.5 8.2-25.6 5.1-6.5 13.2-13 21.6-15-.5 1.9.1 4.1.7 5.9 1.2 3.7 3.7 6.2 5.9 9.3.4.6 1.4.3 1.2-.5-.7-2.4-1.3-4.7-2.1-7.1-.9-2.8-2-5-1.2-7.9v-.3c7.4-.2 15.5 3.6 22.6 5.3 1.5.4 3.1.6 5 .7.6 5.6-2.6 10.5 1.9 15.5 3.9 4.3 10.6 5 16 4.1 6.4-1.1 10-6.2 10.5-11.5.8 2.2.8 5-.1 8.6-4.4 17-27.3 20.6-41.6 14.8-.1 0-.1 0-.2-.1-.9-.4-1.8-.8-2.6-1.2-3.2-1.7-6 3.1-2.8 4.8.4.2.8.4 1.3.6-4 2.6-9.7 3.5-14.2 3.8-3.6.2-3.6 5.8 0 5.6 6.6-.4 14.8-1.8 19.8-6.7 12.3 7.2 10.5 24.5 7.4 36.9-.1.3-.1.6-.1.9-1.6 2.8-2.1 6.2-2.7 9.3-.9 4.5-3.8 8.2-4.5 12.8-.5 3.5 4.8 5 5.4 1.5.9-5.9 4.2-11.5 5.4-17.4 1.5-7.1 7.9-13.6 13.2-18.7 2 4.5 6.1 8.1 10.2 10.6 15.2 9.3 35.2-4.4 41.9-18.1 1.6-3.2-3.2-6-4.8-2.8-6.5 13.3-24.3 24.2-37.8 13.6-4.2-3.3-5.5-6.9-5-10.6 1.1 1.9 2.7 3.6 4.9 5.2 4.3 3.1 11.4 3.9 16.1 1.3 5.4-2.9 9.4-10.3 8.3-16.5-.6-3.7-1-4.3-4.4-6-3-1.5-5.5-2.9-7.9-5 1.9-1.4 3.6-2.6 5.1-3.6 4-2.8 8.5-5 13.2-6.4 2.3 1.4 5.2 2.1 7.6 3.3 3.6 1.9 8.1 4.5 9.9 8.3.3.6 1.2.2 1-.4-1.2-4.7-4.2-7.9-8.1-10.6-.9-.6-2.1-1.4-3.3-2 1.7-.2 3.4-.2 5.1-.1 13.1.8 16.1 12.6 20.2 23.2 3 7.4-.7 20.6-3.7 27.2z"/>
+                        <path d="M127.2 71.3c3.4 1.1 8.8 2.6 11.8.2.3-.2.3-.8 0-1-2.6-2.2-6.4-1.7-9.6-2.5-4.3-1-8.2-2.9-12.4-4.1-.4-.1-.6.4-.4.7 2.8 3.5 6.4 5.3 10.6 6.7zM122.9 101.1c.5-.3.5-1 0-1.3-2.3-1.4-5.2-1.5-7.7-2.3-2.8-.9-5.6-2-8.6-2-.6 0-.7.7-.3 1 3.9 2.5 11.9 7.8 16.6 4.6zM41.9 55.1c3.7-.1 8.3-.4 11.3-2.5.7-.5.7-1.8-.3-1.9-3.4-.6-6.7.6-10 1.1-4 .6-8.1.7-11.9 1.7-.5.1-.5.9 0 1.1 3.6.7 7.3.6 10.9.5zM40 94.1c-.4.1-.4.6 0 .7 3 1.1 6.4.7 9.4-.2 2.6-.8 6.2-2 7.2-4.7.2-.4-.2-1.1-.7-1.2-2.7-.4-5 1.7-7.4 2.7-2.8 1.2-5.8 1.6-8.5 2.7zM113.5 123.9c-.4.1-.5.6-.2.8 1.3 1.1 2.7 1.8 4 3 1.5 1.3 2.7 3 3.9 4.6 1.8 2.6 3.3 6.4 6.4 7.6.4.1.8-.2.8-.6 0-3.7-3.5-7.5-5.7-10.2-2.1-2.5-5.7-5.8-9.2-5.2zM87.6 284.4c-6.1-1.7-12.4-2.8-18.4-4.8-6-2-11.9-4.5-17.9-6.6-10-3.5-21.7-3.3-30.8-8.8-.2-.1-.6.2-.4.4 6 8 18 7.7 26.7 10.3 12.7 3.8 27.2 13.4 40.8 10.3.5.1.5-.6 0-.8z"/>
+                    </svg>
+                    <div class="big-text dark-pink">Services</div>
+                    <div class="normal-text">
+                        We call them Circus Acts; you know them as Service Catalogue,<br>
+                        either way it entails a tight rope walk that ends with a<br>few claps or some broken bones
+                    </div>
+                </div>
+            </section>
+            <div class="space"></div>
+            <section class="service service-6 reverse">
+                <span class="elem circus circus-left"></span>
+                <span class="elem circus circus-right"></span>
+                <span class="elem clouds-and-balloon"></span>
+                <div class="content">
+                    <div class="img-box">
+                        <span class="elem callout">
+                            ... a damn<br>cute dog!
+                        </span>
+                        <div class="video">
+                            <video width="584" height="646" loop muted playsinline poster="https://fullcircus.s3.ap-south-1.amazonaws.com/img/poster-magic.jpg">
+                                <source src="https://fullcircus.s3.ap-south-1.amazonaws.com/video/character-magic1.mp4" type="video/mp4">
+                            </video>
+                        </div>
+                    </div>
+                    <div class="content-box">
+                        <div class="callout-content">
+                            <div class="box">
+                                <h2>Branding & Collaterals</h2>
+                                <p>Branding is like making magic - You start empty-handed, fumble around a bit, and surprise everyone by pulling out …</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="space"></div>
+            <section class="service service-1">
+                <span class="elem circus circus-left"></span>
+                <span class="elem circus circus-right"></span>
+                <span class="elem clouds-and-balloon"></span>
+                <div class="content">
+                    <div class="img-box">
+                        <span class="elem callout">Cho Tweet!</span>
+                        <div class="video">
+                            <video width="604" height="872" loop muted playsinline poster="https://fullcircus.s3.ap-south-1.amazonaws.com/img/poster-juggling.jpg">
+                                <source src="https://fullcircus.s3.ap-south-1.amazonaws.com/video/character-juggling1.mp4" type="video/mp4">
+                            </video>
+                        </div>
+                    </div>
+                    <div class="content-box">
+                        <div class="callout-content">
+                            <div class="box">
+                                <h2>Social Media & Influencer Marketing</h2>
+                                <p>You don’t learn this jugglery in an Insta. It takes a Timeline to Double-Tap the audience’s pulse</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="space"></div>
+            <section class="service service-2 reverse">
+                <span class="elem circus circus-left"></span>
+                <span class="elem circus circus-right"></span>
+                <span class="elem clouds-and-balloon"></span>
+                <div class="content">
+                    <div class="img-box">
+                        <span class="elem callout">Hoop you like it!</span>
+                        <div class="video">
+                            <video width="534" height="500" loop muted playsinline poster="https://fullcircus.s3.ap-south-1.amazonaws.com/img/poster-swing.jpg">
+                                <source src="https://fullcircus.s3.ap-south-1.amazonaws.com/video/character-swinging1.mp4" type="video/mp4">
+                            </video>
+                        </div>
+                    </div>
+                    <div class="content-box">
+                        <div class="callout-content">
+                            <div class="box">
+                                <h2>Website Design & Development</h2>
+                                <p>It takes a fine balance between U and I, U and X, and U and us to create a site to behold.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="space"></div>
+            <section class="service service-5">
+                <span class="elem circus circus-left"></span>
+                <span class="elem circus circus-right"></span>
+                <span class="elem clouds-and-balloon"></span>
+                <div class="content">
+                    <div class="img-box">
+                        <span class="elem callout">I’m just here for the hot dog.</span>
+                        <div class="video">
+                            <video width="944" height="704" loop muted playsinline>
+                                <source src="https://fullcircus.s3.ap-south-1.amazonaws.com/video/character-fire1.mp4" type="video/mp4" poster="https://fullcircus.s3.ap-south-1.amazonaws.com/img/poster-fire.jpg">
+                            </video>
+                        </div>
+                    </div>
+                    <div class="content-box">
+                        <div class="callout-content">
+                            <div class="box">
+                                <h2>
+                                    Content Writing<br> & Marketing
+                                </h2>
+                                <p>Looking for content that spreads like fire? Ha! You’ve come to the right dragon … err, I mean the right person.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="space"></div>
+            <section class="service service-3 reverse">
+                <span class="elem circus circus-left"></span>
+                <span class="elem circus circus-right"></span>
+                <span class="elem clouds-and-balloon"></span>
+                <div class="content">
+                    <div class="img-box">
+                        <span class="elem callout">… carry the weight of your expectations.</span>
+                        <div class="video">
+                            <video width="854" height="664" loop muted playsinline>
+                                <source src="https://fullcircus.s3.ap-south-1.amazonaws.com/video/character-weight-lifting1.mp4" type="video/mp4" poster="https://fullcircus.s3.ap-south-1.amazonaws.com/img/poster-dumble.jpg">
+                            </video>
+                        </div>
+                    </div>
+                    <div class="content-box">
+                        <div class="callout-content">
+                            <div class="box">
+                                <h2>
+                                    Digital<br>Advertising
+                                </h2>
+                                <p>Heavy duty ads? Pfft! We’ve got the muscle power to lift them (off the ground) effortlessly, and ...</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="space"></div>
+            <section class="service service-4">
+                <span class="elem circus circus-left"></span>
+                <span class="elem circus circus-right"></span>
+                <span class="elem clouds-and-balloon"></span>
+                <div class="content">
+                    <div class="img-box">
+                        <span class="elem callout">
+                            SEO<br>Soon!
+                        </span>
+                        <div class="video">
+                            <video width="678" height="700" loop muted playsinline>
+                                <source src="https://fullcircus.s3.ap-south-1.amazonaws.com/video/character-stilt1.mp4" type="video/mp4" poster="https://fullcircus.s3.ap-south-1.amazonaws.com/img/poster-stilt.jpg">
+                            </video>
+                        </div>
+                    </div>
+                    <div class="content-box">
+                        <div class="callout-content">
+                            <div class="box">
+                                <h2>Search Engine Optimisation</h2>
+                                <p>Let’s put you on top of the rankings, looking down on competition, but our only expectation is time.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <div class="space"></div>
+            <section class="scene contact" id="section-contact">
+                <span class="elem circus circus-left"></span>
+                <span class="elem circus circus-right"></span>
+                <span class="elem clouds-and-balloon"></span>
+                <div class="content">
+                    <div class="form">
+                        <h3>Loved our show?</h3>
+                        <form action="query.php" method="post" name="_footerQueryForm" id="_footerQueryForm" novalidate>
+                            <div class="form-block">
+                                <div class="form-row">
+                                    <div class="form-col-half">
+                                        <input autocomplete="off" type="text" name="fname" id="queryf_name" class="form-control" placeholder="Tell us your name">
+                                    </div>
+                                    <div class="form-col-half">
+                                        <input autocomplete="off" type="tel" name="fphone" id="queryf_phone" class="form-control" placeholder="And your number">
+                                    </div>
+                                </div>
+                                <div class="form-row">
+                                    <div class="form-col-full">
+                                        <input autocomplete="off" type="email" name="femail" id="queryf_email" class="form-control" placeholder="Email id also, please">
+                                    </div>
+                                </div>
+                                <div class="form-row">
+                                    <div class="form-col-full">
+                                        <textarea class="form-control" placeholder="Now give your Netflix password. No? Okay, a project brief will do (for now)." name="fdescription" id="queryf_description"></textarea>
+                                    </div>
+                                </div>
+                                <div class="form-button">
+                                    <button class="btn g-recaptcha" id="_footerFormSubmitBtn" name="footer_submit" type="submit" data-sitekey="6LfYwrIfAAAAAIMxens46IfF6RwaDr71tGVdysgr" data-action="submit">Book us now!</button>
+                                    <div class="_footerFormError"></div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="img">
+                        <div class="video">
+                            <video width="830" height="666" loop autoplay muted playsinline>
+                                <source src="https://fullcircus.s3.ap-south-1.amazonaws.com/video/character-contact.mp4" type="video/mp4">
+                            </video>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <div class="site-bottom">
+            <picture class="img">
+                <source srcset="https://fullcircus.s3.ap-south-1.amazonaws.com/img/site-bottom.webp" type="image/webp">
+                <source srcset="https://fullcircus.s3.ap-south-1.amazonaws.com/img/site-bottom.jpg" type="image/jpeg">
+                <img src="https://fullcircus.s3.ap-south-1.amazonaws.com/img/site-bottom.jpg" alt="Full Circus footer image" width="1920" height="1188">
+            </picture>
+            <div class="callout-lines-anim">
+                <div class="callout-footer callout-footer-1 callout-footer-set-1">These are just random callouts</div>
+                <div class="callout-footer callout-footer-2 callout-footer-set-1">The designer made them</div>
+                <div class="callout-footer callout-footer-3 callout-footer-set-1">God knows why</div>
+                <div class="callout-footer callout-footer-4 callout-footer-set-1">Why did we keep them?</div>
+                <div class="callout-footer callout-footer-5 callout-footer-set-2">Because they look pretty</div>
+                <div class="callout-footer callout-footer-6 callout-footer-set-2">What’s your excuse?</div>
+                <div class="callout-footer callout-footer-7 callout-footer-set-2">Why are you still reading these?</div>
+                <div class="callout-footer callout-footer-8 callout-footer-set-2">Seriously stop!</div>
+                <div class="callout-footer callout-footer-9 callout-footer-set-3">We can do this all day</div>
+                <div class="callout-footer callout-footer-10 callout-footer-set-3">Because it’ll keep playing in a loop</div>
+                <div class="callout-footer callout-footer-11 callout-footer-set-3">Here it comes again</div>
+                <div class="callout-footer callout-footer-12 callout-footer-set-3">On your left …</div>
+            </div>
+            <div class="mobile-callout-lines-anim">
+                <div class="mobile-callout-footer">
+                    <span>These are just random callouts</span>
+                </div>
+                <div class="mobile-callout-footer">
+                    <span>The designer made them</span>
+                </div>
+                <div class="mobile-callout-footer">
+                    <span>God knows why</span>
+                </div>
+                <div class="mobile-callout-footer">
+                    <span>Why did we keep them?</span>
+                </div>
+                <div class="mobile-callout-footer">
+                    <span>Because they look pretty</span>
+                </div>
+                <div class="mobile-callout-footer">
+                    <span>What’s your excuse?</span>
+                </div>
+                <div class="mobile-callout-footer">
+                    <span>Why are you still reading these?</span>
+                </div>
+                <div class="mobile-callout-footer">
+                    <span>Seriously stop!</span>
+                </div>
+                <div class="mobile-callout-footer">
+                    <span>We can do this all day</span>
+                </div>
+                <div class="mobile-callout-footer">
+                    <span>Because it’ll keep playing in a loop</span>
+                </div>
+                <div class="mobile-callout-footer">
+                    <span>Here it comes again</span>
+                </div>
+                <div class="mobile-callout-footer">
+                    <span>On your left …</span>
+                </div>
+            </div>
+            <div class="audience">
+                <svg viewBox="0 0 1920 550">
+                    <path d="M1920 90.8l-1.6-5.5s-2 1.7-2.4 4.2c-1.7-3.1-6.5-6.6-9.3-4.6-.3.2-.7.5-.7.9-.1.4.2.6.4.9l6.1 7.9 1.2 3.8c.1 1 .5 2.1 1.1 3.3l.4 1.2c.1 1.8-.1 3.5-.4 5-4.6-8.6-9.3-17.2-13.9-25.8-4-7.6-4.4-14.9-2-22.9 3.7-12.3 7.8-24.5 3.1-37.6-.9-2.6-1.4-5.1-4.6-5-3.5.1-4.9 2.4-4.7 5.7.7 12.5-3.6 23.3-10.6 33.5-4.3 6.4-9.5 13.8-6.2 22.1 7.4 18.6 12.8 37.8 18.9 56.7-.3.6-.5 1.1-.8 1.7-7.6 0-15 .7-21.7 1.7-6.9 1.1-15.3 2.7-23.7 5.8-.4-9.3-1.2-18.6-2.7-27.9-1.7-10.5-3.3-21.6-1.3-32.1 2.9-14.9-4.9-28-5.6-42.1-.1-2.5-1.7-5.2-4.9-4.9-3.4.4-4.2 3.3-4.3 6.3-.1 3.3.9 6.8-.7 10.5-7.3-8.7-13.6-17-19.3-25.7-1.7-2.6-3.5-5-6.5-6.4-1.8-.9-3.8-2.1-5.7-.4-1.5 1.4-1.2 3.3-.7 5 3.3 12 6.1 24.1 14.8 34 11.6 13.1 17 28.3 12.3 46.1-1.1 4.2-1.1 8.6-1.8 12.9-2.5 15.7-3.9 31.4-3.3 47.1-.9 1.5-1.7 3-2.5 4.7-1.1-1.7-2.3-3.4-3.5-5.1-.5 7.6-6.7 13.8-13.9 18.1-.8.5-1.6.8-2.4 1 1.2 1.9 2.4 3.7 3.6 5.4-1.7-1.8-3.7-3.5-5.7-5.1-4.6.2-8.3-3.8-8.9-8.4-8.7-7-19.1-11.6-28.4-14.7-.1-.6-.2-1.2-.4-1.7-2.7-.6-5.5-1.3-8.2-1.8l-2.7-.3c-.4-.6-.9-1.1-1.3-1.7-2.3-3.1-4.5-6.2-6.8-9.3-1.9-2.5-3.8-4.9-5.6-7.4-2-2.9-4.1-5.9-6.1-8.8-1-1.5-1.9-3-2.3-4.9-.4-2.5-.5-5 0-7.5.6-3.3 1.2-6.6 1.9-9.9.5-2.2 1.2-4.3 1.7-6.4.1-.3.1-.6.2-.9.1-1-.4-1.9-.8-2.8-.6-1.2-1.2-2.3-1.7-3.5-.5-1.3-.7-2.6-1.2-3.9-.2-.6-.2-1.3-.6-1.9-.7-1.2-1.2-2.5-1.5-3.8-.1-.5-.3-1-.6-1.3-.5-.5-1.1-1-1.8-1.3-.8-.5-1.7-.9-2.4-1.6-.5-.4-.9-.9-1.4-1.2-1.1-.8-2.4-1.3-3.4-2.2-.4-.4-1-.6-1.2-1.2-.1-.2-.2-.3-.4-.4-.4-.2-.6-.5-.7-.9 0-.2-.2-.3-.2-.4-.3-.7-.9-1.1-1.4-1.7-.2-.3-1.2-.4-1.5-.1-.8.7-1.5 1.4-2.2 2.3-.4.5-.5 1.1-.4 1.8.2 1 .7 1.8 1.3 2.6.3.4.6.7 1.1.8.9.2 1.6.7 2.3 1.1.2.1.3.2.2.5-.7-.2-1.3-.6-2-.6h-.1c-.4-.6-1.1-.4-1.6-.8-.1-.1-.3 0-.5 0-.4.2-.8.2-1.2.3-.6 0-.7.2-.6.8 0 .2.1.4 0 .6-.2.6-.1 1.2.2 1.7.6 1 1.4 1.9 2.6 2.3.2.1.4.1.5.3.9 1 1.9 2 2.5 3.2.7 1.5 1.9 2.7 2.9 3.9.4.5.6.9.2 1.5-.5 1-.9 2.1-1.1 3.2-.1.5-.3 1-.6 1.5-.4.6-.6 1.3-.9 2-.4.8-.6 1.6-1.3 2.3-.4.4-.9.8-1 1.4-.3 1-.7 2-1.2 2.9-.3.4-.5.9-.7 1.3-1.2 2.8-2.9 5.2-5.4 7-1.4 1-2 2.3-1.7 4.1.4 2.2.7 4.5.9 6.7.2 2.4.4 4.9.4 7.3 0 1.9-.1 3.8-.4 5.7-.2 1-.3 2.1-.8 3-.6 1.2-1.1 2.4-1.9 3.4-.5.6-.7 1.4-1.1 2-.7 1.2-1.5 2.2-2.3 3.3-.7 1.2-1.7 2.1-2.5 3.2-.2 0-.4.1-.5.1-.3.1-.7.2-1 .2-1.5.4-3.1.8-4.5 1.3h-.1c-1.5.5-3 1-4.4 1.6-.3.1-.7.3-1 .4-1.4.6-2.8 1.3-4.2 2-.1.1-.3.2-.4.2-1.2.7-2.4 1.4-3.6 2.2-.3.2-.6.4-.8.6-1.2.9-2.4 1.8-3.5 2.8l-.6.6c-1 .9-1.9 1.9-2.9 2.9l-.3.3c-.5.1-1 .3-1.6.8-.4.3-.4.9-.2 1.4v.1c-.4.6-.9 1.2-1.3 1.8-1 .6-1.9 1.2-2.9 1.9-.3.2-.6.5-.9.7l-2.3-3.7c-.4-.6-1-1-1.7-1.1-.7-.1-1.4 0-2 .5l-.3.2c-.9.7-1.2 2-.6 3l2.7 4.6-2.7 2.7c-.2-.5-.4-1-.5-1.5-2.9-7.7-5.8-15.6-8.3-22.9l-1.6-29.5 2.2-4.8 3.2-9 1.2-11.1 3.9-8.1c.1-.3.3-.6.2-.9-.1-.3-.5-.5-.8-.6-2.9-1.3-6.4 2.7-7.4 5.8l-2.4 7.7-2.1.5-3.2-5.5-1.5-4.3-5.3-17.9c-.4-1.5-1.5-6.8-4.9-4.5-.4.3-.5.7-.4 1.2l4.2 19.9-1.4.7-9.4-20.9c-.3-.6-.7-1-1.4-1.2-.6-.2-1.2-.2-1.8.2l-.3.2c-.9.5-1.3 1.6-.9 2.6l9 21.7-1.1.6-.2.2-11.7-18.1c-.3-.5-.8-.8-1.3-.9-.6-.1-1.1 0-1.6.3l-.2.1c-.9.6-1.2 1.8-.7 2.8l11.4 19.2-1.5 1.3v.1l-10.5-11.5c-.7-.8-1.6-.9-2.7 0-.7.6-.3 2.2.2 2.9l11.3 14.6 6.6 12.4 6 7.5 3.2 27c.5 5.4 1 10.7 1.5 15.7l-1.3-3c-.3-.6-.7-1-1.4-1.2-.6-.2-1.2-.2-1.8.2l-.3.2c-.9.5-1.3 1.6-.9 2.6l8 19.3c.1.9.3 1.8.4 2.7l-.5.3-.2.2-11.7-18.1c-.3-.5-.8-.8-1.3-.9-.6-.1-1.1 0-1.6.3l-.2.1c-.9.6-1.2 1.8-.7 2.8l11.4 19.2-1.5 1.3v.1l-10.5-11.5c-.7-.8-1.6-.9-2.7 0-.7.6-.3 2.2.2 2.9l11.3 14.6 6.6 12.4 2.9 3.7c-.4 2.3-.8 4.6-1.1 6.9-2.2-.5-4.4-1-6.4-1.4-.6-.1-1.1-.2-1.7-.3-4.4-2.7-8.7-5.4-12.8-8.5-3.9-2.9-6.2-6.3-5.5-11.4.5-3.5-.6-6.5-2.5-9.5-3.9-6.2-7.4-12.5-9.2-19.7-.9-3.8-3-4.3-6.2-2.3-2.9 1.9-4.7 5.2-8.5 6.9 1.1-5.5 4.9-8.6 8.4-11.9 1.3-1.2 2.5-2.7 1.3-4.4-1.3-1.9-3.1-.6-4.4.3-3.1 2.2-6.2 4.5-10.5 7.7 2.1-4.2 3.6-7.2 5.1-10.1.7-1.5 2.1-3 .3-4.5-1.5-1.2-2.7.3-3.9 1.1-8.1 5.3-10.7 13-9.8 22.3.7 7.4 1.3 14.9 1.7 22.3.2 4.5-.4 8.9-3.2 12.8l-13.8 19.8c.2.1.5.2.7.3-1 .9-2.1 1.8-3 2.8-.2.2-.3.4-.5.6-.9 1-1.7 2-2.5 3.1-.2.2-.4.5-.5.7-.9 1.2-1.7 2.5-2.4 3.9-.2.3-.3.6-.5.9-.7 1.3-1.3 2.6-1.8 4-.1.2-.2.4-.2.6-.4 1-.7 2.1-1 3.2-3.4 1.6-7.6 4.1-11.8 6.8-4.1-12.4-11-27.5-19.3-43.2 4.5-24.6 6.4-61.9-.2-117.4l-2.6-30.3 4.8-9.5 4.4-15.1 9.1-18.5c.4-.9.5-2.8-.4-3.2-1.4-.7-2.3-.4-2.9.6l-8.9 15-.1-.1-2-1.1 8.2-23.6c.4-1.2-.2-2.5-1.3-2.9l-.2-.1c-.6-.2-1.2-.2-1.8 0-.6.3-1 .7-1.2 1.3l-8.8 22.5-.3-.2-1.4-.4 5-25.8c.2-1.2-.5-2.3-1.6-2.7l-.4-.1c-.7-.2-1.4-.1-2 .2-.6.4-1 .9-1.2 1.6l-5.6 25-1.7-.5.1-22.7c0-.5-.2-1-.7-1.2-4.1-1.7-4.2 4.4-4.3 6.1l-1.7 20.8-.7 5-2.3 6.8-2.4-.1-4.3-7.9c-1.7-3.2-6.5-6.7-9.4-4.6-.3.2-.7.5-.7.9-.1.3.2.6.5.9l6.1 7.9 3.8 11.9 5.5 9.1 3.5 4.7 4.9 32.7c-1.2 8.5-2.5 17.9-4 26.9-2.2 14.3-4.3 29.1-5.8 43.3-.2-.2-.4-.3-.6-.5-5.1-8.8-10-17.4-13.8-24.1v-.1c-1.8-3.2-3.4-6-4.5-8.1-.1-.2-.2-.4-.4-.6h-.1c.1-.3.1-.5.1-.8-.1-.6-.4-1.2-.8-1.6l-6.6-6s-13.8-12.5-17.9-16.2c-1.8-.3-4.3.8-4.7 3.1.6 1.4 9.1 6.6 9 8 0 .5-.8.9-1.8 1.3-2.5-.3-4.3-.4-4.3-.4s-4.7-3-7.3-8.6c.2-6.3-3.8-8.2-6-9-.9-3.5-5.2-4.4-5.2-4.4l3.1 14.1s9 13.6 10.7 14.9c1.5 1.1 19.6 5.6 25.9 7.2l-1.2.3c.9 3.7 1.7 7.3 2.6 10.9l.3 1.2c.5 2.1 1.1 4.3 1.6 6.4-9.7-6.3-21.1-9.6-29.6-11.7-6.3-1.5-13.3-2.7-20.5-3.2h-.2c-1.4-.1-2.7-.2-4.1-.2h-5.8c-1.3 0-2.6.1-3.8.2h-.8c-1 .1-1.9.2-2.8.3-3.6-5.9-7.3-11.9-10.8-17.9-4.4-7.4-5.2-14.7-3.2-22.8 3.1-12.5 6.6-24.9 1.2-37.8-1.1-2.6-1.7-5-4.9-4.8-3.5.2-4.8 2.6-4.5 5.9 1.3 12.5-2.4 23.4-8.9 34.1-4 6.6-8.8 14.3-5.1 22.4 4.3 9.5 8.2 19.1 11.8 28.9-.7.4-1.3.9-2 1.4-.2.2-.5.3-.7.5-1 .8-2 1.6-2.9 2.5l-.5.5c-.6.6-1.2 1.3-1.8 2-4 10.5-9.2 20.4-13.5 30.8l.6.7c-.3-.1-.5-.1-.8-.2-.2.4-.3.9-.5 1.3.1.2.2.5.3.8.3.7.6 1.7.9 2.6-5.2 6.1-9.3 12.9-12.9 20-1.3-17.5-2.3-35-6.1-52.3-2.3-10.4-4.4-21.4-2.9-32 2.1-15.1-6.4-27.7-7.8-41.9-.3-2.5-2-5.2-5.2-4.6-3.4.6-4 3.5-3.9 6.5.1 3.3 1.3 6.8-.2 10.6-7.7-8.3-14.5-16.3-20.6-24.8-1.8-2.5-3.8-4.8-6.8-6-1.9-.8-3.9-1.9-5.7-.1-1.5 1.5-1 3.3-.4 5.1 3.9 11.9 7.3 23.8 16.6 33.2 12.3 12.5 18.4 27.4 14.6 45.5-.9 4.2-.7 8.7-1.2 13-2.4 22.2-2.7 44.3 1.8 66.2-2.6 1.1-5 2.4-7.3 4.1-1.1-.3-2.1-.6-3.3-.9-5.5-7-14.1-11.5-22.9-11.9-6.4-.3-12.8 1.6-18.1 5.1 4 8.1 7.7 13.8 10.8 17.7.2.4.3.8.5 1.2-1 1.3-1.8 2.6-2.3 4.2-.7 2-.8 4.1-.6 6.1-.7 1.6-.9 3.3-.7 4.9-2.4 3.3-4.4 7-5.9 11.3-2.2 6.7-2.2 11.9-.5 15.8-5 5.4-9.1 11.6-12.1 18.1-1.7-8.1-1.8-16.2 0-24.6 4.6-22.2 6.8-44.8 13.2-67.7.1.9.3 1.7.4 2.4.1-.6.2-1.3.4-1.9 3.5-16.5 8.9-32.3 12.2-48.6.7-3.7.8-7.4.6-11.2 0-.9.2-1.8.2-2.6 0-7.5-.4-15.1.5-22.5 2.3-18.4-26.5-67.3-37.3-85.3-.6-1-4.5-10-5.1-11-2.9-4.9-3.5-9.8-2.1-15.2 2-8.3 4.4-16.6.8-25.1-.7-1.7-1.1-3.3-3.2-3.2-2.3.2-3.2 1.7-3 3.9.9 8.3-1.6 15.6-5.9 22.7-2.7 4.4-5.9 9.5-3.4 14.9 2 4.3 3.7 8.6 5.5 13h.2c4.6 9.5 10.9 19.9 15.5 29.1 5.6 11.2 10.2 23 14.7 34.7 2.5 6.5 1.9 13.2-.1 20-3.1 10.3-6 20.7-6.8 31.4-.5 7-3.9 12.8-7.3 18.6-2.7 4.8-6.3 5.5-10.9 2.9-4.4-2.5-5.5-5.3-4-10.7 2.2-8.1 7-15.1 8.2-23.8 2.2-14.9-2.4-27.5-10.4-39-9.4-13.6-34.2-13.2-43.9.2-8.9 12.4-9.7 26.6-7.5 41.1.6 4.3 2.4 9.1 7.6 10.7 2.7.8 2.4 3.4 1.9 4.8-1.8 5.3-4 10.7-9.1 14-2.5 1.6-4.5-.2-5.3-2.2-6.3-16.7-14.2-33.6-13-51.5 1-15 19.6-50.5 20.8-52.5-.2-.5 1.8-5 3.8-10.8.3.1.5.2.9.3 2.2-6.2 3.3-11.3 4.3-14.5 2.8-8.3-.7-16.4 0-24.6.1-1.4-.6-3.1-2.4-3.2-2 0-2.7 1.6-2.9 3.3-.3 1.9 0 4-1.2 6-3.5-5.5-6.5-10.8-9.1-16.2-.8-1.6-1.6-3.1-3.2-4.1-1-.6-2-1.5-3.2-.6-1 .7-.9 1.8-.8 2.8 1 7.1 1.6 14.3 5.9 20.6 4.4 6.5 6.4 13.4 5.3 20.8-2 6.2-7.8 14.7-11.3 19.5-10.3 14.2-18.3 19.8-24.9 35.9-3.2 7.7-4.6 16-4.3 24.3.8 24 1.1 48.3 11.9 70.4 6.5 13.3 9.3 27.4 12.9 41.3 1.8 6.8.9 13.9 2.1 20.9.6 3.8 1.1 7.6 1.7 11.4-10.5-8.8-21-17.6-30-27.4-.5 1-1 2-1.4 3-9.5-13.3-20.8-27.7-34.3-43.4-.4-.5-.9-.9-1.4-1.2-2.8-10.4-9.1-32.8-10.5-34.8-1.8-2.6-19.7-15.8-19.7-15.8l-18-4.9s1.4 6.1 6 7.6c1.2 3.2 3.9 8.9 11.9 8.9 7.3 3.9 11.4 10.7 11.4 10.7s.3 2.5.9 6.1c-.4 1.4-.9 2.5-1.5 2.5-1.7.1-8.9-12.2-10.8-13.1-2.9.4-4.1 3.9-3.6 6.5 4.9 5.9 21.7 26 21.7 26l.8 1c-1.8-.3-2.2-1.5-1 1.9 3.6 9.9 10.3 40.3 16.3 58.6 5.3 16.3 10.6 30.8 15.8 43.6 0 2.6.1 5.1.4 7.6-1.9 16.2 1.5 34.9 7.9 53.7-14.8 11.2-28.7 25.4-40.7 41.2-3.2-4.7-6.2-9.1-8.9-12.9-3.1 5.2-6.3 10.6-9.5 16-.8-2.2-1.5-4.4-2.3-6.7.6-.7 1.1-1.5 1.7-2.2 4.2-5.8 13.2-21.9 19.9-40.7 5.6 3.8 15.4-.4 17.4-7.5 2.2-8.2-2.7-16.7-8.9-22.4 8.5-9.8 10.1-25 3.8-36.4-2.2-4.1-5.4-7.8-6.3-12.4-.5-2.7-.1-5.4-.1-8.1.1-12.7-7.8-25-19.4-30.3-10.9-5-24.4-3.3-33.9 4-1.1-.3-2.1-.6-3.3-.9-5.5-7-14-11.6-22.9-11.9h-.3c.1-2 .2-4 .2-5.9 5.2-24.4 8-63.1.8-122.8l-2.6-30.3 4.8-9.5 4.4-15.1 9.1-18.5c.4-.9.5-2.8-.4-3.2-1.4-.7-2.3-.4-2.9.6l-8.9 15-.1-.1-2-1.1 8.2-23.6c.4-1.2-.2-2.5-1.4-2.9l-.2-.1c-.6-.2-1.2-.2-1.8 0-.6.3-1 .7-1.2 1.3l-8.8 22.5-.3-.2-1.4-.4 5-25.8c.2-1.2-.5-2.3-1.6-2.7l-.4-.1c-.7-.2-1.4-.1-2 .2-.6.4-1 .9-1.2 1.6l-5.6 25-1.7-.5.1-22.7c0-.5-.2-1-.7-1.2-4.1-1.7-4.2 4.4-4.3 6.1l-1.7 20.8-.7 5-2.3 6.8-2.4-.1-4.3-7.9c-1.7-3.2-6.5-6.7-9.4-4.6-.3.2-.7.5-.7.9-.1.4.2.6.4.9l6.1 7.9 3.8 11.9 5.5 9.1 3.5 4.7 4.9 32.7c-1.2 8.5-2.5 17.8-4 26.9-2.2 14.3-4.3 29.1-5.8 43.3-6-4.7-12.6-8.1-18.8-10.7-9-6.8-20-10.5-29-12.9l-6.9-12.9c-4.4-8.4-4.9-16.4-2.2-25.2 4.1-13.5 8.6-27 3.4-41.5-1.1-2.9-1.6-5.6-5.1-5.5-3.9.1-5.4 2.6-5.2 6.2.8 13.8-4 25.6-11.7 37-4.8 7.1-10.5 15.3-6.9 24.3.5 1.4 1.1 2.8 1.6 4.1-2.4 2.2-6.7 6.2-10 9.6h-.1c-.3 0-.5.1-.8.1-1.3.2-2.5.4-3.7.6-.2 0-.4.1-.5.1-1.3.3-2.7.6-4 .9-.3.1-.6.2-.9.2-1.3.4-2.5.8-3.8 1.2h-.1c-1.3.5-2.5 1-3.7 1.5-.3.1-.5.3-.8.4-1.2.6-2.3 1.2-3.4 1.9-.1.1-.2.1-.3.2-1 .6-2 1.3-3 2-.2.2-.5.3-.7.5-.4.3-.7.6-1 .9-.4-6-.3-12.1.8-17.9 3.2-16.5-5.4-30.8-6.2-46.5-.1-2.7-1.9-5.8-5.4-5.4-3.8.4-4.6 3.6-4.7 7-.1 3.7 1 7.5-.8 11.6-8-9.6-15-18.7-21.3-28.4-1.9-2.9-3.9-5.5-7.1-7-2-.9-4.1-2.3-6.2-.4-1.7 1.5-1.3 3.6-.7 5.5 3.7 13.3 6.7 26.6 16.3 37.4 12.8 14.5 18.7 31.2 13.5 50.8-1.2 4.6-1.3 9.5-2 14.2-1.8 11.5-3.1 22.9-3.6 34.4-2.3 4.2-4.4 8.5-6.4 12.9-3.3-2.5-6-4.5-6-4.5l-18-4.9s1.4 6.1 6 7.6c1.2 3.2 3.9 8.9 11.9 8.9.9.5 1.7 1 2.4 1.5-.7 1.6-1.4 3.3-2.1 5-.1-.1-.3-.2-.4-.3-2.9.4-4.1 3.9-3.6 6.5.3.3.6.7 1 1.2-6.9 17.7-12.6 35.9-16.1 54.7-.1.2-.3.3-.3.5s0 .3.1.4c-.1.4-.2.8-.2 1.3.1-7.5 1.1-14.9 3.2-22.2-2.4 7.6-3.7 15.6-3.9 23.6v3c-15.4-22.9-34-45.5-52.5-63.8 1.4-5.2 3.2-13.2 3.2-13.2l-2-14s-3.6 2.3-3.2 5.8c-1.7 1.5-4.7 4.6-2.3 10.4-.1 2.1-.6 4-1.2 5.6-1.1-1-2.2-2.1-3.3-3.1.3-.5.5-1 .5-1.3-.8-1.5-2.5-2-3.9-1.8-1-.9-2-1.7-2.9-2.6-1.2-23-13.7-61.7-26.8-96.6-2.9-7.7-5.8-15.6-8.3-22.9l-1.6-29.5 2.2-4.8 3.2-9 1.2-11.1 3.9-8.1c.1-.3.3-.6.2-.9-.1-.3-.5-.5-.8-.6-2.9-1.3-6.4 2.7-7.4 5.8l-2.4 7.7-2.1.5-3.2-5.5-1.5-4.3L683 54c-.4-1.5-1.5-6.8-4.9-4.5-.4.3-.5.7-.4 1.2l4.2 19.9-1.4.7-9.4-20.9c-.3-.6-.7-1-1.4-1.2-.6-.2-1.2-.2-1.8.2l-.3.2c-.9.5-1.3 1.6-.9 2.6l9 21.7-1.1.6-.2.2-11.7-18.1c-.3-.5-.8-.8-1.3-.9-.6-.1-1.1 0-1.6.3l-.2.1c-.9.6-1.2 1.8-.7 2.8l11.4 19.2-1.5 1.3v.1L658.3 68c-.7-.8-1.6-.9-2.7 0-.7.6-.3 2.2.2 2.9l11.3 14.6 6.6 12.4 6 7.5 3.2 27c7 82.4 25.6 117 36.1 130.3 1.3 2.9 2.9 6.2 4.8 9.9-.8 1.6-1.3 2.5-1.3 2.5l-3.9 7.7c-.3.6-.3 1.2-.2 1.8.1.3.2.5.4.7h-.1c0 .2-.1.4-.1.6-.3 2-.7 4.6-1.1 7.5l-.9-1.2c-.4-.6-.9-1.2-1.3-1.7.2-9.7.6-28.7-.2-30.6-1-2.6-14.6-18-14.6-18l-16.1-8.5s-.4 5.4 3.6 7.8c.3 3 1.2 8.4 9 10.3 6 5 8 11.7 8 11.7s-.4 2.2-.9 5.3c-.8 1.1-1.5 1.8-2.2 1.7-1.7-.4-5.2-12.3-6.7-13.6-2.9-.4-5.1 2.2-5.4 4.6 3.1 6.1 13.7 27 13.7 27l2.4 4.6c1.1 3.1 2.3 6.1 3.4 9.1l1.8 4.5c.5 1.4 1.1 2.8 1.6 4.2.5 1.3 1 2.6 1.5 3.8-.8 5.4-1.8 10.9-2.7 16.3-2.4 13.9-4.6 28.4-6.2 42.2-.4 2-.6 3.8-.6 5.4-.3 2.8-.6 5.5-.8 8.2-7.4 8.9-12.7 19.5-14.3 29.7 0 0 .8 11.1-1.5 22.8-6.8 12.3-13.5 25.5-19.7 39-1-1.7-1.9-3.3-2.9-5-1.5 1.1-3.3 2.1-5.3 2.9-1.9-3.1-3.9-6.1-5.9-9.1-.9-5-2.6-9.8-5-14.2-8.4-15.5-5.9-39.6-5.9-39.6 1.5 4.1 2.6 7.6 2.8 9.7 0 0-.7-7.6-2.8-17 .3-.9.6-1.9.9-2.8.5-1.4 1-3 1.3-4.7 3.9-14.2 7.3-31.4 10.1-51.5 2.9-21.2 7.4-45 7.4-45 .3-1.8 3-15.9 1-16.4l-.8-.2 2.8-5.4s10.2-19.9 13.2-25.7c-.8-2.4-4.2-5.4-8.1-5.5-1.8 1.1-4.1 12.9-6.4 13-.8 0-2-.9-3.2-2.1-1.3-3.3-2.3-5.6-2.3-5.6s1.5-6.6 8.5-10.9c10.1-.8 10.2-6.3 10.1-9.3 4.9-1.8 3.4-7.4 3.4-7.4l-20 6.4s-5.3 4.8-9.9 9.3c.4-3 .4-6 .3-9 0-.9.2-1.8.2-2.6 0-7.5-.4-15.1.5-22.5 2.3-18.4-26.5-67.3-37.3-85.3-.6-1-4.5-10-5.1-11-2.9-4.9-3.5-9.8-2.1-15.2 2-8.3 4.4-16.6.8-25.1-.7-1.7-1.1-3.3-3.2-3.2-2.3.2-3.2 1.7-3 3.9.9 8.3-1.6 15.6-5.9 22.7-2.7 4.4-5.9 9.5-3.4 14.9 2 4.3 3.7 8.6 5.5 13h.2c4.6 9.5 10.9 19.9 15.5 29.1 5.6 11.2 10.2 23 14.7 34.7 2.5 6.5 1.9 13.2-.1 20-3.1 10.3-6 20.7-6.8 31.4-.5 7-3.9 12.8-7.3 18.6-2.7 4.8-6.3 5.5-10.9 2.9-4.4-2.5-5.5-5.3-4-10.7 2.2-8.1 7-15.1 8.2-23.8 2.2-14.9-2.4-27.5-10.4-39-9.4-13.6-34.2-13.2-43.9.2-8.9 12.4-9.7 26.6-7.6 41.1.6 4.3 2.4 9.1 7.6 10.7 2.7.8 2.4 3.4 1.9 4.8-1.8 5.3-4 10.7-9.1 14-2.5 1.6-4.5-.2-5.3-2.2-6.3-16.7-14.2-33.6-13-51.5 1-15 19.6-50.5 20.8-52.5-.2-.5 1.8-5 3.8-10.8.3.1.5.2.9.3 2.2-6.2 3.3-11.3 4.4-14.5 2.8-8.3-.7-16.4 0-24.6.1-1.4-.6-3.1-2.4-3.2-2 0-2.7 1.6-2.9 3.3-.3 1.9 0 4-1.2 6-3.5-5.5-6.5-10.8-9.1-16.2-.8-1.6-1.6-3.1-3.2-4.1-1-.6-2-1.5-3.2-.6-1 .7-.9 1.8-.8 2.8 1 7.1 1.6 14.3 5.9 20.6 4.4 6.5 6.4 13.4 5.3 20.8-2 6.2-7.8 14.7-11.2 19.5-10.3 14.2-18.3 19.8-24.9 35.9-3.2 7.7-4.6 16-4.3 24.3l.3 10.2c-5.1-5.9-14.5-15.4-14.5-15.4l-1.7-.7c5.2-22.1 8.5-58.5 1.6-116.7l-.2-1.2c-.4-3.6-.9-7.2-1.4-10.9-.4.1-.8.1-1.2.1 5.1-3.6 20-13.9 21-15.4 1.2-1.8 4.6-17.4 4.6-17.4l-2-14s-3.6 2.3-3.2 5.8c-1.7 1.5-4.7 4.6-2.4 10.4-.4 6-3.7 10.4-3.7 10.4s-1.6.7-3.7 1.8c-1 0-1.9-.1-2.1-.6-.6-1.2 5.4-8.9 5.4-10.4-1.1-2-3.7-2.2-5.3-1.3-2.4 4.7-10.6 20.9-10.6 20.9l-3.9 7.7c-.3.5-.3 1.2-.2 1.8.1.3.2.5.4.7h-.1c-.1.2-.1.4-.1.7-1.3 8.7-4 27.4-7 44.7-5.3 31.2-9.7 65.1-8.6 87.8-9.9-2.2-19.1-3.3-20.1-1.6-10.2 16.6-19.7 36.1-27.7 56.4-.4-6.4-2-12.6-4.7-18.3-3.1-1-5.6-3.8-5.4-8.3.1-3.6.4-7.1.8-10.7-.4-.3-.8-1-1.2-1.8.4-3.2.6-5.5.6-5.5s.6-1 1.9-2.4c.8-4.5 1.6-9 2.6-13.5-1.4 1-2.8 2.1-4.3 3.1-.4-2.9-1.1-6.6-1.9-10.6 3.1-6.4 4.2-18.8 4-21.4-.2-1.8-.5-3.6-.8-5.3-.1-.4-.2-.8-.2-1.2-.4-1.6-.8-3.2-1.3-4.7-.1-.2-.1-.4-.2-.6-.5-1.4-1-2.7-1.6-3.9-.1-.1-.1-.3-.2-.5.1-.6.3-1.3.4-2-.8-.7-1.7-1.3-2.5-1.9-.1-.1-.1-.3-.2-.4-.2-.2-.3-.5-.5-.7-.7-1.1-1.5-2.1-2.3-3.1-.2-.2-.3-.4-.5-.6-.4-.5-.8-.9-1.2-1.3-.1-.9-.2-1.9-.3-2.9l-.9-11c-5.6-1.2-11.1-2.5-16.7-3.9l1 6.6c-.5-.2-1.1-.4-1.6-.6l-.9-.3c-1.5-1.9-3-3.8-4.4-5.7-2.9-3.9-4.1-7.8-1.8-12.5 1.5-3.1 1.4-6.4.5-9.8-1.8-7-3.3-14.2-2.8-21.6.3-3.9-1.6-5-5.2-4-3.4 1-6.1 3.6-10.1 4.1 2.7-5 7.2-6.7 11.6-8.8 1.6-.7 3.2-1.9 2.5-3.8-.7-2.2-2.7-1.5-4.3-1-3.6 1.2-7.2 2.5-12.3 4.2 3.3-3.4 5.6-5.8 7.9-8.1 1.1-1.2 3-2.3 1.6-4.2-1.1-1.6-2.7-.6-4.1-.2-9.3 2.7-14 9.2-16 18.3-1.6 7.3-3.2 14.6-5.1 21.8-1.1 4.4-3.1 8.4-6.8 11.3-6.4 4.9-12.7 9.8-19 14.7.2.2.4.3.6.5-1.3.5-2.5 1.1-3.7 1.8-.2.1-.4.3-.7.4-1.1.7-2.3 1.4-3.3 2.2-.2.2-.5.3-.7.5-1.2.9-2.4 1.9-3.5 2.9l-.3.3c-10.6 4.2-20.9 10.7-27.5 21.5l-8.1-10.5c-9-11.5-18.2-23.7-25.4-33.3-.6-.8-1.1-1.5-1.7-2.2-.5-.7-1.1-1.5-1.6-2.2-.1-.2-.3-.4-.4-.6-1.7-2.3-3.3-4.5-4.7-6.3-.4-.6-.9-1.2-1.3-1.7.2-9.7.6-28.7-.2-30.6-1-2.6-14.6-18-14.6-18L199.7 47s-.4 5.4 3.6 7.8c.3 3 1.2 8.4 9 10.3 6 5 8 11.7 8 11.7s-.4 2.2-.9 5.3c-.8 1.1-1.5 1.8-2.2 1.7-1.7-.4-5.2-12.3-6.7-13.6-2.9-.4-5.1 2.2-5.4 4.6 3.1 6.1 13.7 27 13.7 27l2.4 4.6c1.1 3.1 2.3 6.1 3.4 9.1l1.8 4.5c.5 1.4 1.1 2.8 1.6 4.2 9.4 23.8 18.7 43.9 27.5 61-1.5 5.4-1.7 12-1.1 19.1-.5.6-1 1.1-1.5 1.7-.2.2-.3.4-.5.6-.8 1-1.6 2.1-2.3 3.3-.2.3-.3.5-.4.8-.6 1.1-1.2 2.2-1.7 3.4-.1.2-.2.3-.2.5-.6 1.3-1.1 2.7-1.5 4.1-.1.3-.2.7-.3 1-.4 1.5-.8 3-1.1 4.7-.3 1.5-.3 6.8.3 12-1.3 1.2-2.5 2.5-3.7 3.9-4.9-6.9-9.5-12.6-13.5-16.5-1-1-4.8.8-9.7 4.1 1.7-22.3-.9-58.4-17.1-114.4-.3-1.1-.6-2.2-1-3.3-.4-1.2-.7-2.4-1.1-3.6-.7-2.4-1.4-4.8-2.2-7.2l-.8-4s-3.4-17.9-4.4-23.1c-1.3-1.3-3.8-1.9-5.5-.2-.3 1.5 3.2 10.5 2.3 11.5-.3.4-1.2.3-2.2 0-1.8-1.7-3.1-2.8-3.1-2.8s-1.9-5.1-.6-11c3.9-4.9 1.8-8.6.6-10.6 1.3-3.3-1.5-6.5-1.5-6.5l-5.8 12.9s-1 15.9-.4 18c.5 1.5 9.7 13 14.5 18.9v1.6c0 1.8.1 4 .1 6.4v4.9c.2 9.3.3 21 .3 32.2-.1 35.4 1.5 74 7.9 95.5-6.8 5.8-13 11.7-16 15.5-.4-.3-.7-.6-1.1-.8l-.3-.3c-1.2-.8-2.4-1.6-3.7-2.4-.3-.2-.6-.3-.9-.5l-3.9-2.1h-.1c-1.3-.6-2.7-1.2-4.1-1.7l-.9-.3c-1.4-.5-2.9-1-4.3-1.4-.2-.1-.4-.1-.6-.2-1.4-.4-2.7-.7-4.1-1-.3-.1-.6-.1-.9-.2-1.5-.3-3-.6-4.6-.9-.3 0-.6-.1-.8-.1-1.4-.2-2.8-.4-4.3-.6-.2 0-.4-.1-.7-.1-1.6-.2-3.2-.3-4.7-.4-.3 0-.6 0-1-.1-1.5-.1-3.1-.1-4.6-.1h-.2c-4 0-8 .1-11.9.4-5-20.7-13.4-45.4-22-68.5-2.9-7.7-5.8-15.6-8.3-22.9l-1.6-29.5 2.2-4.8 3.2-9 1.2-11.1 3.9-8.1c.1-.3.3-.6.2-.9-.1-.3-.5-.5-.8-.6-2.9-1.3-6.4 2.7-7.4 5.8l-2.4 7.7-2.1.5-2.7-5.6-1.5-4.3-5.3-17.9c-.4-1.5-1.5-6.8-4.9-4.5-.4.3-.5.7-.4 1.2l4.2 19.9-1.4.7L69.3 73c-.3-.6-.7-1-1.4-1.2-.6-.2-1.2-.2-1.8.2l-.3.2c-.9.5-1.3 1.6-.9 2.6l9 21.7-1.1.6-.2.2-11.7-18.1c-.3-.5-.8-.8-1.3-.9-.6-.1-1.1 0-1.6.3l-.2.1c-.9.6-1.2 1.8-.7 2.8l11.4 19.2L67 102v.1L56.5 90.6c-.7-.8-1.6-.9-2.7 0-.7.6-.3 2.2.2 2.9L65.4 108l6.6 12.4 6 7.5 3.2 27c3.7 43.8 10.7 74.2 18 94.9-.8.2-1.7.5-2.6.7-3-1.1-6.1-2.2-9.2-3.2-3.5-1.2-7.1-2.2-10.5-3.6-4-1.5-8-3-11.9-4.7-2-.8-4-1.7-5.6-3.3-2.1-2.2-3.8-4.6-5-7.3-1.6-3.7-3.3-7.3-4.8-11.1-1-2.5-1.7-5-2.6-7.5-.1-.3-.3-.7-.4-1-.6-1.1-1.7-1.6-2.7-2.2-1.4-.8-2.8-1.5-4.1-2.3-1.3-.9-2.5-2.1-3.8-3.1-.6-.5-1.1-1.1-1.8-1.5-1.5-.7-2.8-1.6-4-2.8-.4-.4-1-.8-1.5-.9-.9-.2-1.8-.2-2.7-.1-1.1.1-2.3.3-3.4.1-.7-.1-1.5-.3-2.3-.3-1.6 0-3.2.3-4.9.1-.7-.1-1.4.1-2-.4-.2-.2-.5-.2-.7-.1-.5.1-.9-.1-1.3-.4-.2-.1-.4-.2-.5-.3-.8-.5-1.7-.5-2.5-.8-.4-.1-1.4.4-1.6.9-.4 1.2-.6 2.5-.6 3.7 0 .8.2 1.4.8 2 .9.9 2 1.3 3.1 1.7.5.2 1.1.3 1.6.1 1-.4 2-.3 3.1-.4.2 0 .4 0 .6.3-.8.3-1.7.2-2.4.7h-.1c-.8-.4-1.4.3-2.1.3-.2 0-.4.2-.5.4-.2.5-.6.8-1 1.1-.6.4-.6.7-.1 1.2.1.2.3.4.4.6.2.8.7 1.2 1.3 1.5 1.3.6 2.7 1 4.1.5.2-.1.4-.1.7-.1 1.6.4 3.2.7 4.7 1.5 1.7 1 3.7 1.3 5.5 1.9.8.3 1.2.6 1.3 1.4.2 1.3.5 2.6 1 3.9.2.6.4 1.2.4 1.8 0 .9.3 1.7.4 2.6.2 1 .5 2 .2 3.1-.1.6-.3 1.4-.1 2.1.4 1.2.7 2.4.7 3.7 0 .6 0 1.2.2 1.8.7 3.6.6 7.1-.7 10.5-.7 1.9-.4 3.7 1 5.2 1.9 2 3.7 3.9 5.4 6 1.8 2.3 3.7 4.5 5.3 7 1.3 1.9 2.5 3.8 3.5 5.9.5 1.1 1 2.3 1.2 3.5.2 1.6.5 3.1.4 4.7 0 .9.2 1.8.3 2.7.1 1.6 0 3.2 0 4.8.1 2-.5 3.9-.5 5.9 0 .7 0 1.4-.1 2-.1.5-.2 1-.3 1.4-11.8 17.5 1.3 58.6 12 85.5-.3 8.2-.2 16.3 0 24.4-7.7-13.9-15.6-27.1-22.9-38.3l-.6-3.2s-3.4-17.9-4.4-23.1c-1.3-1.3-3.8-1.9-5.5-.2-.3 1.5 3.2 10.5 2.3 11.5-.3.4-1.2.3-2.2 0-.3-.3-.6-.5-.9-.8-.9-1.1-1.7-2.2-2.6-3.2-.5-1.9-1.2-5.6-.3-9.8 3.9-4.9 1.8-8.6.6-10.6 1.3-3.3-1.5-6.5-1.5-6.5l-5.8 12.9s-.2 3.2-.4 6.9c-1.7.3-4.7 1.9-8.4 4.3 1.1-14.8.3-35.8-5.1-64.7V414c10.3 12.5 19.9 24.5 29.1 35.7 1 22.9 3.1 44.2 7.2 58.2-6.8 5.8-13 11.7-16 15.5-.4-.3-.7-.6-1.1-.8l-.3-.3c-1.2-.8-2.4-1.6-3.7-2.4-.3-.2-.6-.3-.9-.5l-3.9-2.1h-.1c-1.3-.6-2.7-1.2-4.1-1.7l-.9-.3c-1.4-.5-2.9-1-4.3-1.4-.2-.1-.4-.1-.6-.2-.2 0-.3-.1-.5-.1V550h1920V90.8zM59.6 490.6c-1.1.6-2.3 1.4-3.5 2.2.3-3.5.4-7.4.4-11.6 1.1 1.2 2.2 2.4 3.3 3.5-.1 1.8-.2 3.8-.2 5.9zm4.2-220.4c-.1-1.2-.2-2.4-.2-3.6 0-1.2.1-2.5.1-3.7-.1-1.5-.1-3.1 0-4.6 0-.4-.1-.7-.5-1 .5-.1.8 0 1.1.2 3 1.1 6 2.4 8.8 3.9-3.3 2.4-6.5 5.4-9.3 8.8zm147 83.1l-.7-1.3c.5-5.5 1.4-10.9 2.9-16.2-1.6 5-2.7 10.2-3.3 15.4l-1.1-2c-.6-1.1-1.6-2.3-2.8-3.2-.9-9.8 0-17.9 0-17.9 1.6 4.3 2.6 7.8 2.9 10 0 0-.8-8.1-2.9-18 3.2-6.6 4.3-19.3 4.1-22-.2-1.9-.5-3.7-.8-5.4-.1-.4-.2-.8-.2-1.2l-.3-1.5c5.3 6.1 10.3 12.2 15.3 18.2-5.5 14.8-10 29.8-13.1 45.1zm146.6-237.9c-2.1 2-3.2 5-3.4 8.1l-6.9-.6c1.1-1.2 2.3-2.3 3.5-3.5 2.1-2 4.2-4.5 4-7.2-.5-7 4-12.1 6-18.1.4-1.3 1.1-2.8 2.5-2.5 1.7.3 1.1 2.1 1.1 3.3 0 7.6-.9 14.7-6.8 20.5zm151.3 134.1c1.1 7.2 2.8 14.3 5.2 21.2-.3-.4-.7-.9-1-1.3l-4.9-10.6c.3-2.8.5-6 .7-9.3zm-93.8 99.1c-2.1-7.5-4.2-14.9-6.3-22.4.1-1.1.3-2.1.4-3.1 5.8-2.9 10.7-6.6 14.7-10.9-3.6 12.5-6.6 24.8-8.8 36.4zm103.3-12.4l-9.4-20.9c-.3-.6-.7-1-1.4-1.2-.6-.2-1.2-.2-1.8.2l-.3.2c-.9.5-1.3 1.6-.9 2.6l9 21.7-1.1.6-.2.2-11.7-18.1c-.3-.5-.8-.8-1.3-.9-.6-.1-1.1 0-1.6.3l-.2.1c-.9.6-1.2 1.8-.7 2.8L508 343l-1.5 1.3v.1L496 332.8c-.7-.8-1.6-.9-2.7 0-.7.6-.3 2.2.2 2.9l11.3 14.6 6.6 12.4 1.8 2.3c-4.7 5.5-8.3 12.3-10 21h-.5s0 .7.1 1.9c-1.4 8.5-1.1 18.8 1.5 30.9.8 15.5 1.9 35.3 3.4 56.6-1 1.3-2.1 2.7-3.1 4-2.7 3.5-6 7.9-9.6 12.9-1.1-1.7-2.2-3.5-3.3-5.2 4.6-13.2 4-26.1 4-26.3.2-.7.5-1.3.7-2 2.1-2.3 3.8-5.6 4.7-9.3 1.1-4.5.7-8.9-.7-12.1.1-2.5 0-4 0-4 8.6-57.2-15.1-79.2-35.8-87.6-9.4-3.8-18.1-4.8-23-5.1-.6-2.4-1.2-4.8-1.9-7.2 16.2-29.8 33.3-64.8 44.8-90.9 4.3 8.1 8.6 16.3 8.6 16.3l3.6 6.8c1.3 5.2 3.6 11.8 4.1 13 0 0 9.5 27.7 17.2 52.6.5 1.5.9 3 1.4 4.4l-1.2.5zm113.6-16.9c1.6-9 3.5-18 6-27.1.1.9.3 1.7.4 2.4.1-.6.2-1.3.4-1.9 2.3-10.6 5.3-20.9 8-31.3 1.7 9.1 4.2 20.3 5 23.7l-3.7 11.5c-4.5 6.7-9.6 14.5-14.7 23-.4 0-.9-.2-1.4-.3zm303.8 47.5l2.6-20.4.1-.1.2-1.5c.2 0 .4-.1.5-.1l-3.4 22.1zm60.9 84.1h-.1s0 .1.1 0c-1.1 3-2 6-2.9 9l.6-7.4.1-.1.1-1.6c.2 0 1 0 2.2-.2-.1.1-.1.2-.1.3zm465.3 16.2l-4-4.3c.5-1.3 1-2.6 1.4-3.9l4.1 6.9-1.5 1.3zm109.7-113.3c-.3.4-1.2.3-2.2 0-1.8-1.7-3.1-2.8-3.1-2.8s-.5-1.4-.8-3.6c2.1 1.9 4.1 3.8 6.2 5.6 0 .4 0 .7-.1.8zm15.8-141.5c-1.4 2.5-1.5 5.7-.9 8.7-2.2.5-4.5 1-6.8 1.5.7-1.4 1.5-2.9 2.3-4.3 1.4-2.5 2.7-5.5 1.7-8-2.6-6.5.2-12.8.3-19.1 0-1.3.2-3 1.7-3.2 1.7-.2 1.7 1.7 2.1 2.8 2.3 7.2 3.5 14.3-.4 21.6zm121.6 189l-.9.3-.5.1c-7.5-16.2-18.9-34.4-32.6-52.8 8.1 1.8 16.1 3.8 23.8 6.8 3.3 1.3 6.6 2.8 9.8 4.4 2.7 9.3 6.5 24.7 10.3 38.8l-9.9 2.4zm13.9-246.9h-.1c-1.6-.2-3.3-.3-4.9-.4-.3 0-.7 0-1-.1-1.7-.1-3.4-.2-5.1-.2h-1.9c.8-1.4 1.6-2.8 2.5-4.1.6-.8 1.2-1.6 1.8-2.5.7-1.1 1.4-2.2 2.2-3.2.2-.2.3-.5.1-.9.4.1.5.4.7.6 2.2 3.1 4.1 6.3 5.8 9.7l.6 1.2c-.3-.1-.5-.1-.7-.1zM1864.5 287l-.9-.3c-1.5-.5-2.9-1-4.5-1.4-.2-.1-.4-.1-.6-.2-1.4-.4-2.8-.7-4.2-1-.3-.1-.6-.1-.9-.2-1.6-.3-3.1-.6-4.7-.8-.3 0-.6-.1-.9-.1-1.5-.2-2.9-.4-4.4-.5-.2 0-.4 0-.7-.1-1.1-.1-2.1-.2-3.2-.3.1-.7.2-1.4.3-2 5.8-5.5 17.1-16.4 17.8-17.9.2-.5.4-1.7.6-3.2l.8 1.3 3.6 4.8 3.5 22.6c-.5-.3-1-.5-1.6-.7z"/>
+                </svg>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>&copy;2024 Full Circus. All rights (and lefts) reserved.</p>
+        </div>
+        <div class="popup">
+            <div class="popup-box">
+                <span class="elem close">
+                    <span class="cannon-top"></span>
+                    <span class="cannon-stand"></span>
+                </span>
+                <div class="form-block">
+                    <span class="elem callout">Hey!</span>
+                    <h3>Let’s book you a seat</h3>
+                    <form action="query.php" method="post" name="_scrollQueryForm" id="_scrollQueryForm" novalidate>
+                        <div class="left">
+                            <div class="field">
+                                <input autocomplete="off" class="popup-field" type="text" name="sname" id="querys_name" placeholder="Name">
+                            </div>
+                            <div class="field">
+                                <input autocomplete="off" class="popup-field" type="tel" name="sphone" id="querys_phone" placeholder="Number">
+                            </div>
+                            <div class="field">
+                                <input autocomplete="off" class="popup-field" type="email" name="semail" id="querys_email" placeholder="Email">
+                            </div>
+                        </div>
+                        <div class="right">
+                            <h4>
+                                <span>Shows that you’d like to attend</span>
+                            </h4>
+                            <ul class="checkbox">
+                                <li>
+                                    <input type="checkbox" name="sdescription" value="Social Media Marketing" id="social">
+                                    <span class="checkmark"></span>
+                                    <label for="social">Social Media Marketing</label>
+                                </li>
+                                <li>
+                                    <input type="checkbox" name="sdescription" value="Content Writing & Marketing" id="content">
+                                    <span class="checkmark"></span>
+                                    <label for="content">Content Marketing</label>
+                                </li>
+                                <li>
+                                    <input type="checkbox" name="sdescription" value="Performance Marketing" id="performance">
+                                    <span class="checkmark"></span>
+                                    <label for="performance">Performance Marketing</label>
+                                </li>
+                                <li>
+                                    <input type="checkbox" name="sdescription" value="Website Design & Development" id="website">
+                                    <span class="checkmark"></span>
+                                    <label for="website">Website Design</label>
+                                </li>
+                                <li>
+                                    <input type="checkbox" name="sdescription" value="Branding / Collaterals" id="branding">
+                                    <span class="checkmark"></span>
+                                    <label for="branding">Branding / Collaterals</label>
+                                </li>
+                                <li>
+                                    <input type="checkbox" name="sdescription" value="Search Engine Optimization" id="search">
+                                    <span class="checkmark"></span>
+                                    <label for="search">SEO</label>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="popup-form-button">
+                            <div class="_scrollFormError"></div>
+                            <button class="btn g-recaptcha" id="_scrollFormSubmitBtn" data-sitekey="6LdmMtMfAAAAAK7pTPBP-RA0c2MLmsd2rD0rUeID" data-action='submit'>Submit</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="mobile-fixed">
+            <div class="container">
+                <div class="logo" id="logo-fixed">
+                    <img src="https://fullcircus.s3.ap-south-1.amazonaws.com/img/logo.svg" alt="Full Circus">
+                </div>
+                <div class="actions">
+                    <span class="btn-msg">
+                        Book Us <span>Weekdays | 9 to 7</span>
+                    </span>
+                    <span class="scroll-contact">
+                        <span class="icon icon-contact"></span>
+                        Message
+                    </span>
+                    <a href="tel:+91-8800900445">
+                        <span class="icon icon-phone"></span>
+                        Call
+                    </a>
+                    <a href="mailto:showtime@thefullcircus.com">
+                        <span class="icon icon-email"></span>
+                        Email
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="back-to-top">
+            <div class="text"></div>
+        </div>
+        <div class="popup-awards">
+            <div class="popup-box">
+                <span class="elem close" id="close-awards-popup"></span>
+                <h3>Awesome AWARDS</h3>
+                <picture>
+                    <img class="show-desktop" src="img/awesome-awards-desktop.png" alt="" width="1278" height="400">
+                </picture>
+                <picture>
+                    <img class="show-desktop" src="img/crowd-desktop.png" alt="" width="1227" height="258">
+                </picture>
+                <video class="show-mobile" width="342" height="482" loop autoplay muted playsinline>
+                    <source src="video/awards.mp4" type="video/mp4">
+                </video>
+                <picture>
+                    <img class="show-mobile" src="img/crowd-mobile.png" alt="" width="414" height="198">
+                </picture>
+            </div>
+        </div>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/gsap.min.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/custom.js"></script>
+        <script src="https://www.google.com/recaptcha/api.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                var valid_footerform = true;
+                var valid_scrollform = true;
+                // $('#_footerQueryForm').on('submit', function() {
+                $('#_footerFormSubmitBtn').on('click', function(e) {
+                    var _qname = $("#queryf_name").val();
+                    var _qemail = $("#queryf_email").val();
+                    var _qdesc = $("#queryf_description").val();
+
+                    if (_qname == '' && _qemail == '' && _qdesc == '') {
+                        $("._footerFormError").html("Not so fast, Mr. Bolt!<span></span>");
+                        $("#queryf_name").addClass('invalid_input').attr("placeholder", 'You, who must be named');
+                        $("#queryf_email").addClass('invalid_input').attr("placeholder", 'At least make up a dummy one');
+                        $("#queryf_description").addClass('invalid_input').attr("placeholder", 'Say something … anything');
+                        valid_footerform = false;
+                    } else {
+
+                        $("._footerFormError").html("");
+                        if (_qname == '') {
+                            $("#queryf_name").addClass('invalid_input').attr("placeholder", 'You, who must be named');
+                            valid_footerform = false;
+                        }
+                        if (_qemail == '') {
+                            $("#queryf_email").addClass('invalid_input').attr("placeholder", 'At least make up a dummy one');
+                            valid_footerform = false;
+                        }
+                        if (_qemail && !isEmail(_qemail)) {
+                            $("#queryf_email").addClass('invalid_input').attr("placeholder", 'That’s not an email id, buddy').val('');
+                            valid_footerform = false;
+                        }
+                        if (_qdesc == '') {
+                            $("#queryf_description").addClass('invalid_input').attr("placeholder", 'Say something … anything');
+                            valid_footerform = false;
+                        }
+                    }
+
+                    if (valid_footerform == true) {
+
+                        var x = document.createElement("INPUT");
+                        x.setAttribute("type", "hidden");
+                        x.setAttribute("name", "footer_submit");
+
+                        document.getElementById("_footerQueryForm").appendChild(x);
+                        document.getElementById("_footerQueryForm").submit();
+                    }
+                });
+
+                /* scroll header form */
+                // $('#_scrollQueryForm').on('submit', function() {
+                $('#_scrollFormSubmitBtn').on('click', function(e) {
+
+                    var valid_scrollform = true;
+                    var _sname = $("#querys_name").val();
+                    var _semail = $("#querys_email").val();
+                    var _sname = $("#querys_phone").val();
+
+                    if (_sname == '' && _semail == '' && _sname == '') {
+                        $("._scrollFormError").html("Not so fast, Mr. Bolt!<span></span>");
+                        $("#querys_name").addClass('invalid_input').attr("placeholder", 'You, who must be named');
+                        $("#querys_email").addClass('invalid_input').attr("placeholder", 'At least make up a dummy one');
+                        $("#querys_phone").addClass('invalid_input').attr("placeholder", 'Say something … anything');
+                        valid_scrollform = false;
+                    } else {
+
+                        $("._scrollFormError").html("");
+                        if (_sname == '') {
+                            $("#querys_name").addClass('invalid_input').attr("placeholder", 'You, who must be named');
+                            valid_scrollform = false;
+                        }
+                        if (_semail == '') {
+                            $("#querys_email").addClass('invalid_input').attr("placeholder", 'At least make up a dummy one');
+                            valid_scrollform = false;
+                        }
+                        if (_semail && !isEmail(_semail)) {
+                            $("#querys_email").addClass('invalid_input').attr("placeholder", 'That’s not an email id, buddy').val('');
+                            valid_scrollform = false;
+                        }
+                        if (_sname == '') {
+                            $("#querys_phone").addClass('invalid_input').attr("placeholder", 'Say something … anything');
+                            valid_scrollform = false;
+                        }
+                    }
+
+                    if (valid_scrollform == true) {
+
+                        var x = document.createElement("INPUT");
+                        x.setAttribute("type", "hidden");
+                        x.setAttribute("name", "scroll_submit");
+
+                        document.getElementById("_scrollQueryForm").appendChild(x);
+                        document.getElementById("_scrollQueryForm").submit();
+                    }
+                });
+            });
+
+            $("input:checkbox").on('click', function() {
+                var $box = $(this);
+                if ($box.is(":checked")) {
+                    var group = "input:checkbox[name='" + $box.attr("name") + "']";
+                    $(group).prop("checked", false);
+                    $box.prop("checked", true);
+                } else {
+                    $box.prop("checked", false);
+                }
+            });
+
+            function isEmail(email) {
+                var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+                return regex.test(email);
+            }
+            function onSubmitPopup(token) {
+                document.getElementById("_scrollQueryForm").submit();
+            }
+            function onSubmitFooter(token) {
+                document.getElementById("_footerQueryForm").submit();
+            }
+        </script>
+    </body>
+</html>
