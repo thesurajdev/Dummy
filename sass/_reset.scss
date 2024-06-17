@@ -1,0 +1,188 @@
+*,*:after,*:before{box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;}
+*{-webkit-tap-highlight-color:transparent;}
+::-moz-selection{background:$base-color; color:#fff; text-shadow:none;}
+::selection{background:$base-color; color:#fff; text-shadow:none;}
+:focus{outline:0 none;}
+article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary{display:block;}
+audio,canvas,video{display:inline-block; max-width: 100%;}
+audio:not([controls]){display:none; height:0;}
+[hidden]{display:none;}
+html,body{height:100%; min-height:100%;}
+html{font-size:100%; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; text-size-adjust:100%;}
+html,button,input,select,textarea{font-family: $base-font; font-weight: 400;}
+body{margin:0; -webkit-font-smoothing:antialiased; -webkit-text-size-adjust:100%; text-size-adjust:100%; background-color:#fff;}
+img{border:0 none; max-width:100%; vertical-align:top; height:auto;}
+h1,h2,h3,h4,h5,h6{margin:0; font-weight: normal; line-height:1.2;}
+a{
+    color: $primary-color;
+    text-decoration:none;
+    @include transition(all linear 0.2s);
+    cursor: pointer;
+    &:hover{
+        color:$dark-pink;
+    }
+}
+abbr[title]{border-bottom:1px dotted;}
+b,strong{font-weight:700;}
+blockquote{margin:1em 40px;}
+dfn{font-style:italic;}
+mark{background:#ff0; color:#000;}
+pre{margin:1em 0;}
+p{
+    margin: 0 0 30px;
+    &:last-of-type{
+        margin-bottom:0;
+    }
+}
+code,kbd,pre,samp{font-family:monospace,serif; _font-family:'courier new',monospace; font-size:1em;}
+pre{white-space:pre; white-space:pre-wrap; word-wrap:break-word;}
+q{quotes:none;}
+q:before,q:after{content:''; content:none;}
+small{font-size:75%;}
+sub,sup{font-size:75%; line-height:0; position:relative; vertical-align:baseline;}
+sup{top:-0.5em;}
+sub{bottom:-0.25em;}
+dl,menu{margin:0; padding:0;}
+dd{margin:0 0 0 40px;}
+nav ul,nav ol{list-style:none;}
+iframe{border:0; -ms-interpolation-mode:bicubic; max-width:100%;}
+svg:not(:root){overflow:hidden;}
+figure{margin:0;}
+form{margin:0;}
+fieldset{border:1px solid #c0c0c0; margin:0 2px; padding:.35em .625em .75em;}
+legend{border:0; padding:0; white-space:normal;}
+button,input,select,textarea{font-size:100%; margin:0; vertical-align:baseline;}
+button,input{line-height:normal;}
+button,input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button; @include transition(all linear 0.2s); cursor:pointer;}
+button[disabled],input[disabled]{cursor:default;}
+input[type="checkbox"],input[type="radio"]{box-sizing:border-box; padding:0;}
+input[type="search"]{-webkit-appearance:none; appearance:none; -webkit-border-radius:0; -moz-border-radius:0; -ms-border-radius:0; -o-border-radius:0; border-radius:0;}
+input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none; appearance:none;}
+button::-moz-focus-inner,input::-moz-focus-inner{border:0; padding:0;}
+textarea{overflow:auto; vertical-align:top;}
+table{border-collapse:collapse; border-spacing:0; table-layout:fixed; border:1px solid rgba(0,0,0,0.1);}
+table th,table td{padding:10px 20px 7px; line-height:1.2; border-right:1px solid rgba(0,0,0,0.1);}
+table th{background-color:#231f20; color:#fff; text-transform:uppercase; font-size:15px; letter-spacing:0.5px;}
+table td{border-top:1px solid rgba(0,0,0,0.1); font-size:16px;}
+address{font-style:normal; font-size:14px;}
+hr{border:0 none; border-top:1px solid rgba(0,0,0,0.1); margin:30px 0; display:block; width:100%;}
+ul,ol{margin:20px 0; padding-left:15px;}
+ul ul,ol ol{margin:10px 0;}
+ul ul li{list-style:circle outside;}
+ol ol li{list-style:lower-roman outside;}
+
+body{
+    font-family: $base-font;
+    color: $primary-color;
+    font-weight: $regular;
+    line-height: 1.375;
+    font-size: $base-font-size;
+}
+
+// .row{
+//     display: -webkit-flex;
+//     display: flex;
+//     flex-wrap: wrap;
+//     margin-left: -$gutter;
+//     margin-right: -$gutter;
+// }
+
+// [class*="col-"]{
+//     padding-left: $gutter;
+//     padding-right: $gutter;
+//     min-height: 1px;
+// }
+// @for $i from 1 through 12 {
+//     .col-#{$i} {
+//         width: percentage($i/12);
+//     }
+// }
+// @media all and (max-width: 999px){
+//     @for $i from 1 through 12 {
+//         .col-ipad-#{$i} {
+//             width: percentage($i/12);
+//         }
+//     }
+// }
+// .no-gutters{
+//     margin-left: 0;
+//     margin-right: 0;
+//     [class*="col-"]{
+//         padding-left: 0;
+//         padding-right: 0;
+//     }
+// }
+
+// @media all and (max-width: 767px){
+//     @for $i from 1 through 12 {
+//         .col-#{$i} {
+//             width: 100%;
+//         }
+//     }
+// }
+
+// .wrapper{
+//     padding-left: $gutter;
+//     padding-right: $gutter;
+//     max-width: $wrapper;
+//     margin: 0 auto;
+//     position: relative;
+//     width: 100%;
+// }
+
+.blue{
+    color: $blue;
+}
+.light-red{
+    color: $light-red;
+}
+.yellow{
+    color: $yellow;
+}
+.dark-pink{
+    color: $dark-pink;
+}
+
+.form-control{
+    display: block;
+    width: 100%;
+    border: 0 none;
+    background-color: transparent;
+    background-position: left top;
+    background-repeat: no-repeat;
+    font-family: $base-font;
+    font-size: $base-font-size - 2;
+    line-height: 1.2;
+    font-weight: $regular;
+    padding: 0 30px;
+    @include placeholder(#000, 0.6);
+    resize: none;
+}
+input.form-control{
+    background-image: url(../img/bg-form-field-small.png);
+    height: 50px;
+}
+textarea.form-control{
+    background-image: url(../img/bg-form-field-textarea.png);
+    height: 135px;
+    padding: 15px 30px;
+}
+.invalid_input{
+    font-size: $base-font-size - 4;
+    @include placeholder(#ff4c38, 1);
+}
+.form-button{
+    text-align: center;
+}
+.btn{
+    display: inline-block;
+    border: none;
+    background: url(../img/button.svg) no-repeat left top;
+    font-size: 24px;
+    line-height: 1;
+    font-weight: $extra-bold;
+    text-align: center;
+    padding: 35px 0 40px;
+    background-size: auto 100%;
+    min-width: 360px;
+}
